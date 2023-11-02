@@ -1,0 +1,2314 @@
+,Tipo,Nombre,Año estreno,Mes estreno,Id
+0,movie,Istota,2000,0.0,tt0102362
+1,movie,For the Cause,2002,5.0,tt0113092
+2,movie,Florentino y el diablo,2000,4.0,tt0113086
+3,movie,Karobaar: The Business of Love,2000,9.0,tt0116748
+4,short,Chateaubriand - Cabeça de Paraíba,2000,12.0,tt0115874
+5,movie,Gang,2000,4.0,tt0116391
+6,movie,Consequence,2000,0.0,tt0115937
+7,movie,Fa yeung nin wah,2001,3.0,tt0118694
+8,movie,Beyond the Pale,2000,9.0,tt0118710
+9,movie,Chinese Coffee,2000,9.0,tt0118852
+10,movie,Passionnément,2000,5.0,tt0119866
+11,movie,Love 101,2000,2.0,tt0119495
+12,movie,Pushing the Envelope,2001,4.0,tt0119966
+13,movie,Way Past Cool,2000,0.0,tt0120485
+14,movie,State and Main,2001,7.0,tt0120202
+15,movie,Vulgar,2000,9.0,tt0120467
+16,movie,Bruno,2000,4.0,tt0123003
+17,movie,Lured Innocence,2000,2.0,tt0122161
+18,movie,Shikari,2000,10.0,tt0120117
+19,movie,Capitães de Abril,2001,4.0,tt0120626
+20,movie,Sånger från andra våningen,2001,9.0,tt0120263
+21,movie,The Million Dollar Hotel,2000,5.0,tt0120753
+22,movie,Chicken Run,2000,9.0,tt0120630
+23,movie,The Highwayman,2000,4.0,tt0120698
+24,movie,Foiled,2000,0.0,tt0120673
+25,movie,Return to Me,2000,6.0,tt0122459
+26,movie,Waking the Dead,2000,3.0,tt0127349
+27,movie,Flamingo Dreams,2000,0.0,tt0129095
+28,movie,Dinosaur,2000,6.0,tt0130623
+29,movie,Duets,2000,9.0,tt0134630
+30,movie,Fallen Arches,2000,1.0,tt0133752
+31,movie,Wind River,2000,6.0,tt0135707
+32,movie,Cement,2000,1.0,tt0138353
+33,movie,Waterproof,2000,8.0,tt0138927
+34,short,Nights,2000,3.0,tt0138655
+35,movie,Mothman,2000,0.0,tt0137115
+36,movie,The Yards,2001,6.0,tt0138946
+37,movie,The Hiding Place,2000,6.0,tt0138818
+38,movie,No Quarto da Vanda,2001,3.0,tt0139500
+39,movie,Isn't She Great,2000,1.0,tt0141399
+40,movie,Knockout,2000,2.0,tt0143344
+41,movie,Committed,2000,4.0,tt0144142
+42,movie,American Psycho,2000,9.0,tt0144084
+43,short,Caught,2000,8.0,tt0142155
+44,short,Smog,2000,3.0,tt0144613
+45,movie,Thirteen Days,2001,4.0,tt0146309
+46,movie,High Fidelity,2000,8.0,tt0146882
+47,movie,The Legend of Bagger Vance,2001,5.0,tt0146984
+48,movie,Looking for an Echo,2000,11.0,tt0148421
+49,movie,All the Pretty Horses,2000,12.0,tt0149624
+50,movie,Where the Money Is,2000,4.0,tt0149367
+51,movie,Josh,2000,6.0,tt0151150
+52,movie,The Thief & the Stripper,2000,10.0,tt0153012
+53,movie,Time of Her Time,2000,9.0,tt0153100
+54,movie,Up at the Villa,2000,4.0,tt0153464
+55,movie,A Good Baby,2000,12.0,tt0155723
+56,movie,Ricky 6,2001,4.0,tt0156020
+57,movie,I'll Remember April,2001,4.0,tt0155754
+58,movie,Secrets of a Chambermaid,2000,4.0,tt0155150
+59,movie,Yup Yup Man,2005,1.0,tt0157202
+60,movie,The Next Best Thing,2000,6.0,tt0156841
+61,movie,Rave,2000,10.0,tt0156942
+62,movie,Daddy Tell Me a Story...,2000,0.0,tt0157500
+63,movie,My Dog Skip,2000,8.0,tt0156812
+64,movie,Mad About Mambo,2000,7.0,tt0156757
+65,movie,Trolösa,2001,10.0,tt0157122
+66,movie,Nora,2000,4.0,tt0158033
+67,movie,Coping,2000,3.0,tt0159371
+68,movie,Lennon,2000,0.0,tt0158721
+69,movie,På fremmed mark,2000,3.0,tt0158871
+70,movie,Luckytown,2002,4.0,tt0160495
+71,movie,More Dogs Than Bones,2000,7.0,tt0160547
+72,movie,Moskva,2001,3.0,tt0160550
+73,movie,Blast,2000,4.0,tt0160663
+74,movie,Passion of Mind,2000,6.0,tt0160644
+75,movie,Four Dogs Playing Poker,2000,6.0,tt0160289
+76,movie,Takedown,2000,3.0,tt0159784
+77,movie,Steal This Movie,2002,6.0,tt0161216
+78,movie,Respirar (Debaixo D'água),2000,2.0,tt0160759
+79,movie,Lost Souls,2001,4.0,tt0160484
+80,movie,Rules of Engagement,2000,11.0,tt0160797
+81,movie,The Redemption,2000,0.0,tt0160751
+82,movie,Red Dirt,2000,3.0,tt0160749
+83,movie,Train Ride,2000,,tt0161003
+84,movie,Other Voices,2000,1.0,tt0160616
+85,movie,Cast Away,2001,1.0,tt0162222
+86,movie,What Lies Beneath,2000,10.0,tt0161081
+87,movie,Hanging Up,2000,6.0,tt0162983
+88,movie,The Operator,2000,3.0,tt0163125
+89,movie,Kasbah,2000,9.0,tt0162901
+90,movie,The Stonecutter,2011,5.0,tt0164182
+91,movie,Under Suspicion,2000,11.0,tt0164212
+92,movie,Bless the Child,2001,8.0,tt0163983
+93,movie,The In Crowd,2000,7.0,tt0163676
+94,movie,The Beach,2000,3.0,tt0163978
+95,movie,The Debut,2003,8.0,tt0163745
+96,movie,Across the Line,2000,2.0,tt0164318
+97,movie,Doomsday Man,2000,,tt0164545
+98,movie,Black Sea 213,2000,4.0,tt0165642
+99,movie,When the Sky Falls,2000,6.0,tt0166013
+100,movie,The Giving Tree,2001,11.0,tt0165800
+101,movie,The Girls' Room,2000,3.0,tt0167183
+102,movie,Aberdeen,2000,9.0,tt0168446
+103,movie,Dancer in the Dark,2000,10.0,tt0168629
+104,movie,Le birdwatcher,2000,12.0,tt0168509
+105,movie,I Dreamed of Africa,2000,8.0,tt0167203
+106,movie,Russkiy bunt,2000,4.0,tt0167380
+107,movie,Tick Tock,2000,9.0,tt0169324
+108,movie,The Playaz Court,2000,,tt0168612
+109,movie,Perfumed Garden: Tales of the Kama Sutra,2000,6.0,tt0169122
+110,movie,Hjælp! Jeg er en fisk,2001,10.0,tt0168856
+111,movie,A Better Way to Die,2001,9.0,tt0168504
+112,movie,Dark Summer,2002,2.0,tt0168631
+113,movie,Keeping the Faith,2000,8.0,tt0171433
+114,movie,Hamlet,2000,6.0,tt0171359
+115,movie,Prince of Central Park,2000,12.0,tt0170452
+116,movie,Tigerland,2001,5.0,tt0170691
+117,movie,Gladiator,2000,5.0,tt0172495
+118,movie,Bone,2000,0.0,tt0171126
+119,movie,Nurse Betty,2000,11.0,tt0171580
+120,movie,The Thundering 8th,2000,0.0,tt0171827
+121,movie,Labor Pains,2000,11.0,tt0172699
+122,movie,Joe Gould's Secret,2000,5.0,tt0172632
+123,movie,L.A.,2000,0.0,tt0172693
+124,movie,The Magic of Marciano,2000,2.0,tt0173999
+125,movie,"6,000 Miles from Hollywood",2000,0.0,tt0174448
+126,movie,Mirka,2000,3.0,tt0174027
+127,movie,Autumn in New York,2000,12.0,tt0174480
+128,movie,Just for the Time Being,2000,2.0,tt0174646
+129,movie,Hangman,2000,0.0,tt0175143
+130,movie,Building Bridges,2000,3.0,tt0176578
+131,movie,Gossip,2000,12.0,tt0176783
+132,movie,Sample People,2000,5.0,tt0177195
+133,movie,The Perfect Storm,2000,9.0,tt0177971
+134,movie,King of the Jungle,2000,10.0,tt0177888
+135,movie,Coronación,2000,4.0,tt0179137
+136,movie,Once in the Life,2000,10.0,tt0177068
+137,movie,Sunset Strip,2000,8.0,tt0178050
+138,movie,"South of Heaven, West of Hell",2000,1.0,tt0179473
+139,movie,Icebreaker,2000,5.0,tt0179861
+140,movie,Rancid Aluminium,2000,1.0,tt0179443
+141,movie,Requiem for a Dream,2001,9.0,tt0180093
+142,movie,Quills,2001,3.0,tt0180073
+143,movie,Astoria,2006,3.0,tt0179653
+144,movie,Best,2000,5.0,tt0181311
+145,movie,Födelsedagen,2000,3.0,tt0181819
+146,movie,Bossa Nova,2000,3.0,tt0180837
+147,movie,Traffic,2001,3.0,tt0181865
+148,movie,A Piece of Eden,2001,8.0,tt0181945
+149,movie,Esther Kahn,2000,10.0,tt0183056
+150,movie,Intrepid,2000,4.0,tt0183280
+151,movie,The Pavilion,2000,4.0,tt0183639
+152,movie,Pollock,2001,3.0,tt0183659
+153,movie,Everything's Jake,2000,3.0,tt0180683
+154,movie,Finding Forrester,2001,4.0,tt0181536
+155,movie,My Mother Frank,2000,8.0,tt0183550
+156,movie,Love Beat the Hell Outta Me,2000,6.0,tt0183423
+157,movie,Urbania,2001,8.0,tt0182508
+158,movie,Almost Famous,2001,5.0,tt0181875
+159,movie,Boiler Room,2000,8.0,tt0181984
+160,movie,Spanish Judges,2000,10.0,tt0183808
+161,movie,Les yeux brouillés,2000,6.0,tt0184056
+162,movie,Undertaker's Paradise,2001,2.0,tt0183946
+163,movie,Reindeer Games,2000,10.0,tt0184858
+164,movie,Diaries of Darkness,2000,0.0,tt0185278
+165,movie,New Year's Day,2001,11.0,tt0185542
+166,movie,Toreros,2000,1.0,tt0185215
+167,movie,A House by the Sea,2007,1.0,tt0186221
+168,movie,The Guilty,2000,6.0,tt0186183
+169,movie,Highway Society,2000,3.0,tt0187880
+170,movie,Frequency,2000,8.0,tt0186151
+171,movie,The Patriot,2000,7.0,tt0187393
+172,movie,Living the Life,2000,0.0,tt0187387
+173,movie,Down to You,2000,7.0,tt0186975
+174,movie,Wonder Boys,2000,11.0,tt0185014
+175,movie,Brooklyn Sonnet,2000,0.0,tt0187761
+176,movie,Saint-Cyr,2001,12.0,tt0187474
+177,movie,The Young Unknowns,2000,3.0,tt0186719
+178,movie,The Simian Line,2000,1.0,tt0186549
+179,movie,Bounce,2001,5.0,tt0186894
+180,movie,Point Doom,2000,6.0,tt0186454
+181,movie,Fear of Fiction,2000,7.0,tt0187847
+182,movie,Price of Glory,2000,3.0,tt0188160
+183,short,Safe Journey,2000,,tt0188189
+184,movie,Pelon maantiede,2000,1.0,tt0188135
+185,movie,Complicity,2000,7.0,tt0188518
+186,movie,Aliendog: Life as it is,2000,0.0,tt0188398
+187,movie,Les fantômes des Trois Madeleine,2000,5.0,tt0188613
+188,movie,Catalina Trust,2000,4.0,tt0188490
+189,movie,Insatiable Wives,2007,9.0,tt0188688
+190,movie,Estorvo,2000,5.0,tt0189509
+191,movie,Surrender,2003,12.0,tt0190052
+192,movie,Bad Faith,2000,10.0,tt0190994
+193,movie,Left Behind,2001,2.0,tt0190524
+194,movie,Shadow of the Vampire,2001,1.0,tt0189998
+195,movie,Wo hu cang long,2001,2.0,tt0190332
+196,movie,Vatel,2000,7.0,tt0190861
+197,movie,28 Days,2000,6.0,tt0191754
+198,movie,The Skulls,2000,10.0,tt0192614
+199,movie,Vertical Limit,2001,2.0,tt0190865
+200,movie,Senke uspomena,2000,4.0,tt0192346
+201,movie,A Raiz do Coração,2000,10.0,tt0189960
+202,movie,Marlene,2000,3.0,tt0192295
+203,movie,Sand,2000,11.0,tt0190736
+204,movie,Circus,2000,5.0,tt0191037
+205,movie,Jim's Camera,2000,0.0,tt0192180
+206,movie,La veuve de Saint-Pierre,2000,12.0,tt0191636
+207,movie,No Alibi,2000,3.0,tt0192719
+208,movie,The Dancer,2000,6.0,tt0190346
+209,movie,Stardom,2000,10.0,tt0192949
+210,movie,Peixe-Lua,2000,9.0,tt0191352
+211,short,Among Others,2000,6.0,tt0191782
+212,movie,La carbonara,2000,2.0,tt0191865
+213,movie,Tierra del fuego,2000,5.0,tt0192678
+214,movie,Badding,2000,8.0,tt0193741
+215,movie,A Shot at Glory,2002,7.0,tt0193854
+216,movie,"Hylätyt talot, autiot pihat",2000,2.0,tt0194027
+217,short,Ruben,2000,6.0,tt0194319
+218,movie,Panic,2001,4.0,tt0194218
+219,movie,Kanak Attack,2000,11.0,tt0195001
+220,movie,Knockout,2000,11.0,tt0195860
+221,movie,Kin,2002,8.0,tt0195857
+222,movie,Un amor de Borges,2000,9.0,tt0194852
+223,movie,Total Loss,2000,2.0,tt0195352
+224,movie,The Right Temptation,2001,5.0,tt0196223
+225,movie,Newsbreak,2000,2.0,tt0195944
+226,movie,Erin Brockovich,2000,4.0,tt0195685
+227,movie,La donna falco,2000,0.0,tt0195655
+228,movie,Here on Earth,2000,8.0,tt0195778
+229,movie,Alone with a Stranger,2000,10.0,tt0195631
+230,short,O Pedido de Emprego,2000,2.0,tt0195979
+231,movie,The Wrecking Crew,2000,3.0,tt0196219
+232,movie,Boesman and Lena,2001,4.0,tt0197311
+233,movie,Under Pressure,2000,2.0,tt0197072
+234,movie,Crime + Punishment in Suburbia,2000,8.0,tt0197384
+235,movie,Detektor,2000,8.0,tt0197402
+236,movie,Forever Lulu,2000,7.0,tt0196723
+237,movie,Loveblind,2000,3.0,tt0197644
+238,movie,Lush,2000,5.0,tt0197646
+239,movie,L'ombra del gigante,2000,4.0,tt0197740
+240,movie,Lockdown,2003,6.0,tt0196708
+241,movie,What's Cooking?,2000,12.0,tt0197096
+242,movie,Partners in Crime,2000,2.0,tt0197753
+243,movie,Black Sea Raid,2000,5.0,tt0197299
+244,movie,Wings of the Crow,2000,12.0,tt0197104
+245,movie,Where the Heart Is,2000,11.0,tt0198021
+246,movie,Baby Luv,2005,8.0,tt0198320
+247,movie,After Sex,2011,1.0,tt0198284
+248,movie,Passion's Desire,2000,11.0,tt0198893
+249,movie,Gripsholm,2000,11.0,tt0199000
+250,movie,Lijmen/Het been,2001,1.0,tt0198654
+251,movie,The Visit,2001,4.0,tt0199129
+252,movie,Preferisco il rumore del mare,2001,7.0,tt0199077
+253,movie,Jill Rips,2000,2.0,tt0199650
+254,movie,Diamond Men,2000,10.0,tt0200427
+255,movie,Chuck & Buck,2000,8.0,tt0200530
+256,movie,Love & Basketball,2000,4.0,tt0199725
+257,movie,Manhattan Chase,2000,11.0,tt0199748
+258,movie,The Prophet's Game,2001,4.0,tt0199974
+259,movie,Stanley's Gig,2000,6.0,tt0200171
+260,movie,Tra(sgre)dire,2000,1.0,tt0200192
+261,movie,Mambo Café,2000,4.0,tt0199744
+262,movie,Kuningas Hidas,2000,4.0,tt0199696
+263,movie,Beautiful Joe,2001,6.0,tt0200472
+264,movie,Bad Luck Love,2000,9.0,tt0200299
+265,movie,Lakeuden kutsu,2000,1.0,tt0199700
+266,movie,Coyote Ugly,2000,10.0,tt0200550
+267,movie,The Exchange,2000,0.0,tt0199504
+268,movie,The Last Producer,2000,8.0,tt0201726
+269,short,Soul Cages,2000,10.0,tt0202592
+270,movie,Lost in the Pershing Point Hotel,2000,6.0,tt0201737
+271,movie,The House of Mirth,2001,5.0,tt0200720
+272,movie,True Rights,2000,6.0,tt0201275
+273,movie,The Golden Bowl,2001,1.0,tt0200669
+274,movie,A Rumor of Angels,2001,,tt0201899
+275,movie,Whatever It Takes,2000,3.0,tt0202402
+276,movie,"L'amour, l'argent, l'amour",2002,11.0,tt0203297
+277,movie,Tribulation,2000,1.0,tt0202236
+278,movie,Der Krieger und die Kaiserin,2001,3.0,tt0203632
+279,movie,No More Monkeys Jumpin' on the Bed,2000,9.0,tt0202502
+280,movie,You Can Count on Me,2001,5.0,tt0203230
+281,movie,The Alternate,2000,4.0,tt0203835
+282,movie,Double Parked,2000,1.0,tt0202856
+283,movie,Illicit Lovers,2000,4.0,tt0203580
+284,movie,The Way of the Gun,2000,9.0,tt0202677
+285,short,Shadows,2000,3.0,tt0201919
+286,movie,L'invention de l'amour,2000,10.0,tt0204414
+287,movie,Swimming,2000,3.0,tt0202711
+288,movie,Two Family House,2000,10.0,tt0202641
+289,movie,Greenfingers,2001,9.0,tt0203540
+290,movie,Animal Factory,2000,8.0,tt0204137
+291,movie,Faites comme si je n'étais pas là,2001,1.0,tt0204315
+292,movie,Wilde mossels,2000,9.0,tt0204055
+293,movie,Boys and Girls,2000,6.0,tt0204175
+294,movie,Anna Wunder,2002,9.0,tt0204140
+295,movie,Den bästa sommaren,2001,10.0,tt0204932
+296,movie,The Dish,2000,10.0,tt0205873
+297,short,Short,2000,10.0,tt0205408
+298,movie,Thomas and the Magic Railroad,2000,12.0,tt0205461
+299,movie,Tutto l'amore che c'è,2000,3.0,tt0205836
+300,movie,The Kaleidoscope,2000,0.0,tt0206068
+301,movie,Sexy Beast,2001,10.0,tt0203119
+302,movie,Endsville,2000,0.0,tt0202864
+303,movie,Men of Honor,2001,5.0,tt0203019
+304,movie,Pocetí mého mladsího bratra,2000,1.0,tt0203056
+305,movie,Something Sweet,2000,10.0,tt0203144
+306,movie,Tillsammans,2001,4.0,tt0203166
+307,movie,La fidélité,2000,4.0,tt0204761
+308,movie,The Watcher,2001,1.0,tt0204626
+309,short,The Good Doctor,2000,0.0,tt0205096
+310,movie,Ninja Mission 2000,2000,0.0,tt0204499
+311,movie,Dubbel-8,2000,11.0,tt0205027
+312,movie,Dr. T & the Women,2001,4.0,tt0205271
+313,movie,Camera Obscura,2000,1.0,tt0204933
+314,short,Legs Apart,2000,9.0,tt0205352
+315,movie,A Sense of Entitlement,2000,3.0,tt0205391
+316,movie,Blessed Art Thou,2000,1.0,tt0205778
+317,movie,The Summer of the Kavalcutes,2000,0.0,tt0206324
+318,movie,Dos hermanos,2000,3.0,tt0206694
+319,movie,The Man Who Cried,2000,12.0,tt0206917
+320,movie,Luck of the Draw,2000,4.0,tt0207036
+321,movie,Sirens of the Deep,2000,0.0,tt0207271
+322,movie,Along for the Ride,2001,2.0,tt0206545
+323,movie,Sulla spiaggia e di là dal molo,2000,4.0,tt0207130
+324,movie,Abschied - Brechts letzter Sommer,2000,9.0,tt0206608
+325,movie,Family Jewels,2003,2.0,tt0208376
+326,movie,The Miracle Maker,2000,3.0,tt0208298
+327,movie,Canone inverso - Making Love,2000,2.0,tt0208032
+328,movie,Broke Even,2000,4.0,tt0208017
+329,movie,Tolerância,2000,10.0,tt0207163
+330,movie,Eine Hand Voll Gras,2000,11.0,tt0206795
+331,movie,How to Kill Your Neighbor's Dog,2003,3.0,tt0207524
+332,movie,The King Is Alive,2001,6.0,tt0208911
+333,movie,Il partigiano Johnny,2000,11.0,tt0206200
+334,movie,De ida y vuelta,2000,10.0,tt0208889
+335,movie,Get Carter,2001,9.0,tt0208988
+336,movie,Here's to Life!,2000,9.0,tt0207638
+337,movie,"A Girl, Three Guys, and a Gun",2000,3.0,tt0207745
+338,movie,After the Rain,2000,0.0,tt0207296
+339,movie,The Chaos Factor,2000,6.0,tt0208037
+340,movie,No Taboo,2000,0.0,tt0206977
+341,movie,Downtown 81,2001,3.0,tt0208993
+342,movie,King of the Korner,2000,0.0,tt0209080
+343,movie,Desire,2000,9.0,tt0208883
+344,movie,Skipped Parts,2001,12.0,tt0209322
+345,movie,The Contender,2001,9.0,tt0208874
+346,movie,Gangster No. 1,2000,6.0,tt0210065
+347,movie,The Testimony of Taliesin Jones,2000,10.0,tt0210357
+348,movie,Ginger Snaps,2001,5.0,tt0210070
+349,movie,Lakeboat,2001,6.0,tt0210149
+350,movie,Girlfight,2001,8.0,tt0210075
+351,movie,"Paris, mon petit corps est bien las de ce grand monde",2000,6.0,tt0210890
+352,movie,Ritual,2000,7.0,tt0210952
+353,movie,"Jails, Hospitals & Hip-Hop",2000,5.0,tt0210130
+354,movie,Johnny Famous,2000,5.0,tt0210776
+355,movie,Papa's Song,2000,5.0,tt0210884
+356,movie,The Weight of Water,2002,7.0,tt0210382
+357,movie,Remember the Titans,2001,3.0,tt0210945
+358,movie,Center Stage,2000,8.0,tt0210616
+359,short,The Third Lie,2000,0.0,tt0211036
+360,movie,Nebeska udica,2000,4.0,tt0209180
+361,movie,Iedereen beroemd!,2000,11.0,tt0209037
+362,movie,Things You Can Tell Just by Looking at Her,2000,10.0,tt0210358
+363,movie,Pandaemonium,2001,4.0,tt0210217
+364,movie,A la medianoche y media,2000,4.0,tt0210471
+365,movie,Beautiful,2000,9.0,tt0210567
+366,movie,Bootmen,2000,10.0,tt0210584
+367,movie,Songcatcher,2001,7.0,tt0210299
+368,movie,Il cielo cade,2000,5.0,tt0211309
+369,movie,Ainsi soit-il,2000,3.0,tt0210480
+370,movie,Chasing the Dragon,2000,0.0,tt0211296
+371,movie,Love me,2001,8.0,tt0211554
+372,movie,Rosszfiúk,2000,2.0,tt0212474
+373,movie,In Loving Memory,2000,0.0,tt0211427
+374,short,When the Time Comes,2000,2.0,tt0212607
+375,movie,"Vera, nadezhda, krov'",2000,0.0,tt0211721
+376,movie,Tully,2000,4.0,tt0212604
+377,movie,Groove,2000,10.0,tt0212974
+378,movie,Gouttes d'eau sur pierres brûlantes,2000,10.0,tt0211387
+379,movie,Big Eden,2000,4.0,tt0212815
+380,movie,Bread and Roses,2001,4.0,tt0212826
+381,movie,Ghaath,2000,12.0,tt0213677
+382,movie,After Alice,2000,2.0,tt0212742
+383,movie,Seducing Maarya,2000,6.0,tt0213231
+384,movie,Obstacles,2000,0.0,tt0213127
+385,movie,Vengo,2000,12.0,tt0211718
+386,movie,"Tout va bien, on s'en va",2001,6.0,tt0213595
+387,movie,Mohabbatein,2000,10.0,tt0213890
+388,movie,Jadviga párnája,2000,3.0,tt0213733
+389,movie,Her i nærheden,2000,1.0,tt0212215
+390,movie,The Luzhin Defence,2000,12.0,tt0211492
+391,movie,An Intimate Friendship,2000,0.0,tt0212667
+392,movie,Beat,2004,5.0,tt0211941
+393,movie,Clean and Narrow,2000,1.0,tt0212059
+394,movie,Love 101,2000,2.0,tt0119495
+395,movie,Nothing Sacred,2000,11.0,tt0119806
+396,movie,State and Main,2001,7.0,tt0120202
+397,movie,Bruno,2000,4.0,tt0123003
+398,movie,Sånger från andra våningen,2001,9.0,tt0120263
+399,movie,The Elf Who Didn't Believe,2000,9.0,tt0123055
+400,movie,Chicken Run,2000,9.0,tt0120630
+401,movie,The Highwayman,2000,4.0,tt0120698
+402,movie,The Emperor's New Groove,2001,6.0,tt0120917
+403,movie,Return to Me,2000,6.0,tt0122459
+404,short,A Moment of Silence,2000,9.0,tt0124798
+405,movie,The Adventures of Rocky & Bullwinkle,2000,6.0,tt0131704
+406,movie,Duets,2000,9.0,tt0134630
+407,movie,Love... at Your Disposal,2000,4.0,tt0138583
+408,movie,All Saints Day,2000,10.0,tt0138288
+409,movie,Mothman,2000,0.0,tt0137115
+410,movie,The Road to El Dorado,2000,10.0,tt0138749
+411,movie,Muggers,2000,5.0,tt0138631
+412,movie,It Had to Be You,2000,2.0,tt0139388
+413,movie,Isn't She Great,2000,1.0,tt0141399
+414,movie,Committed,2000,4.0,tt0144142
+415,movie,Meeting Daddy,2000,6.0,tt0142650
+416,short,The Package,2000,10.0,tt0145272
+417,movie,Nutty Professor II: The Klumps,2000,10.0,tt0144528
+418,movie,Red Lipstick,2000,4.0,tt0144574
+419,short,The Extra,2000,2.0,tt0146682
+420,movie,High Fidelity,2000,8.0,tt0146882
+421,movie,Eat Me!,2000,0.0,tt0148095
+422,movie,Shafted!,2000,3.0,tt0147486
+423,movie,Where the Money Is,2000,4.0,tt0149367
+424,movie,Laughing Boy,2000,11.0,tt0151309
+425,movie,Mr. Accident,2000,9.0,tt0156807
+426,movie,The Next Best Thing,2000,6.0,tt0156841
+427,movie,2001: A Space Travesty,2001,9.0,tt0157262
+428,movie,My Dog Skip,2000,8.0,tt0156812
+429,movie,Life/Drawing,2005,,tt0156741
+430,movie,Screwed,2000,5.0,tt0156323
+431,movie,Mad About Mambo,2000,7.0,tt0156757
+432,movie,Det blir aldrig som man tänkt sig,2000,2.0,tt0158581
+433,movie,The Flintstones in Viva Rock Vegas,2000,7.0,tt0158622
+434,movie,Coping,2000,3.0,tt0159371
+435,movie,Punks,2000,1.0,tt0160710
+436,movie,More Dogs Than Bones,2000,7.0,tt0160547
+437,movie,The Independent,2000,3.0,tt0160403
+438,movie,Attention Shoppers,2000,9.0,tt0159291
+439,movie,Desperate But Not Serious,2000,10.0,tt0160182
+440,movie,Slice & Dice,2000,0.0,tt0161509
+441,movie,Charlie's Angels,2000,12.0,tt0160127
+442,movie,The Last Great Ride,2000,4.0,tt0160447
+443,movie,Ordinary Decent Criminal,2001,1.0,tt0160611
+444,movie,Killing Cinderella,2000,0.0,tt0160425
+445,movie,Open Return,2000,0.0,tt0160607
+446,movie,La parenthèse enchantée,2000,4.0,tt0163141
+447,movie,Hanging Up,2000,6.0,tt0162983
+448,movie,The Operator,2000,3.0,tt0163125
+449,movie,Trixie,2000,8.0,tt0162711
+450,movie,The Debut,2003,8.0,tt0163745
+451,movie,Big Monster on Campus,2000,2.0,tt0164192
+452,movie,Urban Mythology,2000,0.0,tt0164953
+453,movie,Finding Kelly,2000,1.0,tt0166192
+454,movie,The Girls' Room,2000,3.0,tt0167183
+455,short,In Between,2000,0.0,tt0168002
+456,movie,Le birdwatcher,2000,12.0,tt0168509
+457,movie,Screenland Drive,2000,0.0,tt0166339
+458,movie,Holgi,2000,2.0,tt0166649
+459,movie,The Boys Behind the Desk,2000,0.0,tt0167802
+460,movie,Film,2000,9.0,tt0167936
+461,movie,"Chicks, Man",2000,10.0,tt0168578
+462,movie,Hjælp! Jeg er en fisk,2001,10.0,tt0168856
+463,movie,A Better Way to Die,2001,9.0,tt0168504
+464,movie,Ab ins Paradies,2001,3.0,tt0168847
+465,movie,How the Grinch Stole Christmas,2000,11.0,tt0170016
+466,movie,Keeping the Faith,2000,8.0,tt0171433
+467,movie,Sud Side Stori,2000,9.0,tt0170635
+468,movie,Ballen i øyet,2000,2.0,tt0172160
+469,movie,Gun Shy,2000,3.0,tt0171356
+470,movie,Nurse Betty,2000,11.0,tt0171580
+471,movie,Labor Pains,2000,11.0,tt0172699
+472,movie,The Million Dollar Kid,2001,4.0,tt0172464
+473,movie,Naked with Loons,2000,6.0,tt0172854
+474,movie,L.A.,2000,0.0,tt0172693
+475,movie,Cecil B. Demented,2000,8.0,tt0173716
+476,movie,"6,000 Miles from Hollywood",2000,0.0,tt0174448
+477,movie,Whipped,2000,9.0,tt0174336
+478,movie,Retiring Tatiana,2000,2.0,tt0175114
+479,movie,Just for the Time Being,2000,2.0,tt0174646
+480,movie,Scary Movie,2000,8.0,tt0175142
+481,movie,Sample People,2000,5.0,tt0177195
+482,movie,Company Man,2000,7.0,tt0177650
+483,movie,Hotel Splendide,2000,9.0,tt0177845
+484,movie,Stranger Than Fiction,2001,5.0,tt0178043
+485,movie,Im Juli,2000,8.0,tt0177858
+486,movie,All the Wrong Places,2000,9.0,tt0177513
+487,movie,The Rowdy Girls,2013,5.0,tt0177185
+488,movie,Sunset Strip,2000,8.0,tt0178050
+489,movie,Rhythm & Blues,2000,1.0,tt0178866
+490,movie,The Strange Case of Señor Computer,2000,1.0,tt0177213
+491,movie,Just Sue Me,2000,9.0,tt0179915
+492,movie,Rats and Rabbits,2000,4.0,tt0179677
+493,movie,Mondialito,2001,1.0,tt0179987
+494,movie,Rancid Aluminium,2000,1.0,tt0179443
+495,movie,Dean Quixote,2000,,tt0179144
+496,movie,What Planet Are You From?,2000,5.0,tt0181151
+497,movie,Bossa Nova,2000,3.0,tt0180837
+498,short,Dinner,2000,0.0,tt0181486
+499,movie,Love's Labour's Lost,2000,9.0,tt0182295
+500,movie,Les frères Soeur,2000,7.0,tt0181548
+501,movie,A Piece of Eden,2001,8.0,tt0181945
+502,movie,Everything's Jake,2000,3.0,tt0180683
+503,movie,My Mother Frank,2000,8.0,tt0183550
+504,movie,A Man Is Mostly Water,2000,10.0,tt0183488
+505,movie,"Me, Myself & Irene",2000,7.0,tt0183505
+506,movie,The Specials,2000,9.0,tt0181836
+507,movie,Almost Famous,2001,5.0,tt0181875
+508,movie,Gunblast Vodka,2001,8.0,tt0183142
+509,movie,What I Like About You,2000,1.0,tt0184009
+510,movie,Les yeux brouillés,2000,6.0,tt0184056
+511,movie,Taxi 2,2001,1.0,tt0183869
+512,movie,Undertaker's Paradise,2001,2.0,tt0183946
+513,movie,Shanghai Noon,2000,6.0,tt0184894
+514,movie,"Raluy, una noche en el circo",2000,6.0,tt0184849
+515,movie,Snow Day,2000,2.0,tt0184907
+516,movie,Little Nicky,2000,11.0,tt0185431
+517,movie,Hundhotellet,2000,3.0,tt0184596
+518,movie,Dirk and Betty,2000,,tt0186029
+519,movie,Highway Society,2000,3.0,tt0187880
+520,movie,Down to You,2000,7.0,tt0186975
+521,movie,Wonder Boys,2000,11.0,tt0185014
+522,movie,Drowning Mona,2001,1.0,tt0186045
+523,movie,Playing Mona Lisa,2000,4.0,tt0187559
+524,short,They Walk Among Us,2000,0.0,tt0187697
+525,movie,Magicians,2000,,tt0188045
+526,movie,Cut,2000,3.0,tt0189456
+527,movie,Heller als der Mond,2000,1.0,tt0190449
+528,movie,Olé: Um Movie Cabra da Peste,2000,0.0,tt0189856
+529,movie,The Whole Nine Yards,2000,5.0,tt0190138
+530,movie,Life-In-Progress,2000,0.0,tt0190530
+531,movie,28 Days,2000,6.0,tt0191754
+532,short,"Love, Ltd.",2000,9.0,tt0192266
+533,movie,The Little Vampire,2001,4.0,tt0192255
+534,movie,"O Brother, Where Art Thou?",2000,12.0,tt0190590
+535,movie,Honest,2000,10.0,tt0192126
+536,movie,The Replacements,2000,8.0,tt0191397
+537,movie,Jim's Camera,2000,0.0,tt0192180
+538,movie,Otto - Der Katastrofenfilm,2000,3.0,tt0192407
+539,movie,Picking Up the Pieces,2000,8.0,tt0192455
+540,movie,Married 2 Malcolm,2000,5.0,tt0192912
+541,movie,Stardom,2000,10.0,tt0192949
+542,short,Blutiger Ernst,2000,0.0,tt0193020
+543,movie,Apartment Hunting,2000,,tt0191787
+544,movie,Enemies of Laughter,2000,11.0,tt0193135
+545,movie,Badding,2000,8.0,tt0193741
+546,short,Ruben,2000,6.0,tt0194319
+547,movie,Chain of Fools,2000,9.0,tt0194368
+548,movie,Hurmaava joukkoitsemurha,2000,3.0,tt0194026
+549,movie,Accelerator,2000,11.0,tt0193701
+550,movie,Panic,2001,4.0,tt0194218
+551,movie,We Married Margo,2000,1.0,tt0194519
+552,movie,Saving Grace,2000,9.0,tt0195234
+553,short,Divine Intervention,2000,0.0,tt0194815
+554,movie,MVP: Most Valuable Primate,2000,8.0,tt0196106
+555,movie,Next Friday,2000,1.0,tt0195945
+556,movie,Small Time Crooks,2000,12.0,tt0196216
+557,movie,"Free Delivery, the Horror!",2000,0.0,tt0196573
+558,movie,Da jeg traff Jesus... med sprettert,2002,2.0,tt0197392
+559,movie,Detektor,2000,8.0,tt0197402
+560,movie,Lush,2000,5.0,tt0197646
+561,movie,Schrott - Die Atzenposse,2000,1.0,tt0197858
+562,movie,What's Cooking?,2000,12.0,tt0197096
+563,movie,Where the Heart Is,2000,11.0,tt0198021
+564,movie,After Sex,2011,1.0,tt0198284
+565,movie,East of A,2000,3.0,tt0198438
+566,movie,The Crew,2000,8.0,tt0198386
+567,movie,Recipe for Disaster,2000,0.0,tt0198970
+568,movie,Perfect Fit,2000,,tt0198903
+569,movie,3 Strikes,2000,3.0,tt0199290
+570,movie,About Adam,2001,1.0,tt0199314
+571,movie,Chuck & Buck,2000,8.0,tt0200530
+572,movie,El árbol del penitente,2000,4.0,tt0200316
+573,movie,Lucy You Love It,2000,0.0,tt0199729
+574,movie,"Belli, carucci e pettinati",2000,0.0,tt0199358
+575,movie,"Love, Honour and Obey",2000,4.0,tt0199727
+576,movie,Tra(sgre)dire,2000,1.0,tt0200192
+577,movie,Mambo Café,2000,4.0,tt0199744
+578,movie,Kuningas Hidas,2000,4.0,tt0199696
+579,movie,Beautiful Joe,2001,6.0,tt0200472
+580,movie,Coyote Ugly,2000,10.0,tt0200550
+581,movie,My Next Funeral,2000,0.0,tt0202487
+582,movie,The Cheapest Movie Ever Made,2000,0.0,tt0201519
+583,movie,The Last Producer,2000,8.0,tt0201726
+584,movie,Just One Night,2004,3.0,tt0201901
+585,movie,Lost in the Pershing Point Hotel,2000,6.0,tt0201737
+586,movie,House!,2000,5.0,tt0201670
+587,movie,Whatever It Takes,2000,3.0,tt0202402
+588,movie,La vita è un gioco,2000,1.0,tt0202316
+589,movie,Rent a Friend,2000,3.0,tt0201888
+590,movie,Chasing Indigo,2000,7.0,tt0202829
+591,movie,Overnight Sensation,2000,7.0,tt0203047
+592,movie,DoppelPack,2000,8.0,tt0202256
+593,movie,Double Parked,2000,1.0,tt0202856
+594,movie,Illicit Lovers,2000,4.0,tt0203580
+595,movie,The Intern,2000,1.0,tt0202989
+596,movie,Poor White Trash,2000,5.0,tt0204350
+597,movie,Home Sweet Hoboken,2000,4.0,tt0204382
+598,movie,Io amo Andrea,2000,1.0,tt0202405
+599,movie,Two Family House,2000,10.0,tt0202641
+600,movie,Greenfingers,2001,9.0,tt0203540
+601,movie,Boys and Girls,2000,6.0,tt0204175
+602,movie,Den bästa sommaren,2001,10.0,tt0204932
+603,movie,Being Considered,2000,3.0,tt0204885
+604,movie,The Dish,2000,10.0,tt0205873
+605,short,Short,2000,10.0,tt0205408
+606,movie,Thomas and the Magic Railroad,2000,12.0,tt0205461
+607,movie,Flick,2000,0.0,tt0205938
+608,movie,Pocetí mého mladsího bratra,2000,1.0,tt0203056
+609,movie,Tillsammans,2001,4.0,tt0203166
+610,movie,Astronomy of Errors,2000,0.0,tt0204679
+611,movie,Sordid Lives,2001,5.0,tt0204640
+612,movie,Trifling with Fate,2000,6.0,tt0204698
+613,movie,Bring It On,2001,9.0,tt0204946
+614,movie,Ninja Mission 2000,2000,0.0,tt0204499
+615,movie,Kevin & Perry Go Large,2000,4.0,tt0205177
+616,movie,Dr. T & the Women,2001,4.0,tt0205271
+617,movie,A Sense of Entitlement,2000,3.0,tt0205391
+618,movie,Teste di cocco,2000,11.0,tt0205718
+619,movie,What's Eating You?,2000,11.0,tt0205521
+620,movie,What Women Want,2001,2.0,tt0207201
+621,movie,Vinnie and Angela's Beauty Salon and Funeral Parlor,2000,4.0,tt0206395
+622,movie,LiebesLuder,2000,11.0,tt0206088
+623,movie,Massholes,2000,9.0,tt0206382
+624,movie,Woman on Top,2000,9.0,tt0206420
+625,movie,Abschied - Brechts letzter Sommer,2000,9.0,tt0206608
+626,movie,Psycho Beach Party,2001,9.0,tt0206226
+627,movie,Family Jewels,2003,2.0,tt0208376
+628,movie,The Big Thing,2000,0.0,tt0207337
+629,movie,Time Share,2000,6.0,tt0207161
+630,movie,Si fa presto a dire amore...,2000,10.0,tt0206128
+631,movie,Chump Change,2004,1.0,tt0208050
+632,movie,How to Kill Your Neighbor's Dog,2003,3.0,tt0207524
+633,movie,La lingua del santo,2000,9.0,tt0206093
+634,movie,Fast Food Fast Women,2001,6.0,tt0206742
+635,movie,Liberate i pesci!,2000,1.0,tt0206087
+636,movie,Sexo por compasión,2002,5.0,tt0208675
+637,movie,Tobia al caffè,2000,10.0,tt0206351
+638,movie,"A Girl, Three Guys, and a Gun",2000,3.0,tt0207745
+639,movie,Happy Accidents,2001,9.0,tt0208196
+640,movie,Maybe Baby,2000,9.0,tt0206926
+641,movie,C'era un cinese in coma,2000,3.0,tt0208026
+642,movie,Snatch,2000,11.0,tt0208092
+643,movie,Downtown 81,2001,3.0,tt0208993
+644,movie,Big Momma's House,2000,9.0,tt0208003
+645,movie,Skipped Parts,2001,12.0,tt0209322
+646,movie,"Jails, Hospitals & Hip-Hop",2000,5.0,tt0210130
+647,short,The Dancing Cow,2000,2.0,tt0210633
+648,movie,In the Weeds,2000,6.0,tt0210756
+649,movie,Relative Values,2000,6.0,tt0210943
+650,movie,Welcome Albania,2000,0.0,tt0210383
+651,short,Little Go Beep,2001,7.0,tt0209106
+652,movie,Iedereen beroemd!,2000,11.0,tt0209037
+653,movie,Beautiful,2000,9.0,tt0210567
+654,movie,Bootmen,2000,10.0,tt0210584
+655,movie,La vie après l'amour,2000,7.0,tt0211103
+656,movie,102 Dalmatians,2001,2.0,tt0211181
+657,movie,Anna,2000,0.0,tt0211200
+658,movie,Les acteurs,2000,4.0,tt0211900
+659,movie,Terror Tract,2001,6.0,tt0211661
+660,movie,Gouttes d'eau sur pierres brûlantes,2000,10.0,tt0211387
+661,movie,Big Eden,2000,4.0,tt0212815
+662,movie,Byron Bay,2000,12.0,tt0212820
+663,short,Twitch,2004,9.0,tt0213295
+664,movie,Meet the Parents,2000,12.0,tt0212338
+665,movie,Obstacles,2000,0.0,tt0213127
+666,movie,João Mata Sete,2000,0.0,tt0212261
+667,movie,Miss Congeniality,2001,3.0,tt0212346
+668,movie,Angst,2000,8.0,tt0211919
+669,movie,Bait,2000,9.0,tt0211938
+670,movie,100 Girls,2000,9.0,tt0214388
+671,short,Damned If You Do,2000,10.0,tt0213587
+672,movie,Citizen Toxie: The Toxic Avenger IV,2008,8.0,tt0212879
+673,movie,Pere,2000,3.0,tt0213996
+674,movie,Very Mean Men,2000,6.0,tt0214277
+675,movie,The Ladies Man,2000,10.0,tt0213790
+676,movie,Rugrats in Paris: The Movie - Rugrats II,2001,4.0,tt0213203
+677,short,The Rules of Engagement,2000,6.0,tt0214065
+678,movie,Bored Silly,2000,3.0,tt0214548
+679,movie,Dropping Out,2000,1.0,tt0214646
+680,movie,L'extraterrestre,2000,2.0,tt0215757
+681,movie,Table One,2000,4.0,tt0215232
+682,short,Dressing the Nelsons,2000,2.0,tt0215730
+683,movie,Road Trip,2000,9.0,tt0215129
+684,movie,Faith and the Water Dog,2000,0.0,tt0214683
+685,movie,Jubilee,2000,4.0,tt0215880
+686,movie,Le libertin,2000,3.0,tt0214878
+687,movie,Carmelo y yo,2000,0.0,tt0215596
+688,movie,Sur un air d'autoroute,2000,6.0,tt0215223
+689,movie,The Martini Shot,2000,12.0,tt0215972
+690,movie,Mulligan,2000,0.0,tt0216011
+691,movie,Bamboozled,2001,8.0,tt0215545
+692,movie,Cowboys and Angels,2000,4.0,tt0215679
+693,movie,...und das ist erst der Anfang,2000,7.0,tt0215458
+694,movie,Wild About Harry,2001,10.0,tt0216279
+695,movie,Postmark Paradise,2000,3.0,tt0216105
+696,movie,Deuxième vie,2000,10.0,tt0216522
+697,movie,Le conte du ventre plein,2000,6.0,tt0216587
+698,movie,The Wog Boy,2000,2.0,tt0216417
+699,movie,Amazone,2000,7.0,tt0216890
+700,movie,Erkan & Stefan,2000,4.0,tt0216741
+701,movie,30 ans,2000,7.0,tt0216523
+702,movie,"Harry, un ami qui vous veut du bien",2001,6.0,tt0216800
+703,movie,La bostella,2000,6.0,tt0216590
+704,short,Somewhere Else,2000,0.0,tt0217813
+705,movie,Dead Babies,2000,9.0,tt0218138
+706,movie,Sandy Hook Lingerie Party Massacre,2000,6.0,tt0217780
+707,movie,Secret Society,2001,12.0,tt0217788
+708,movie,Family Audit,2000,0.0,tt0217477
+709,movie,An Everlasting Piece,2001,3.0,tt0218182
+710,movie,Tout est calme,2000,1.0,tt0216941
+711,movie,Ça ira mieux demain,2000,11.0,tt0217168
+712,movie,Il segreto del giaguaro,2000,3.0,tt0217037
+713,movie,La vache et le président,2000,6.0,tt0217116
+714,movie,En vacances,2000,6.0,tt0216735
+715,movie,Le prof,2000,4.0,tt0216983
+716,movie,The Convent,2000,7.0,tt0217331
+717,movie,Looking for Alibrandi,2000,5.0,tt0217629
+718,movie,Ropewalk,2000,3.0,tt0218561
+719,movie,The Closer You Get,2000,9.0,tt0218112
+720,movie,Loser,2000,7.0,tt0217630
+721,movie,Le goût des autres,2001,3.0,tt0216787
+722,movie,Washed Up,2000,3.0,tt0217884
+723,movie,Samotári,2000,4.0,tt0219288
+724,movie,Ready to Rumble,2000,4.0,tt0217756
+725,short,Robot Love,2000,0.0,tt0219277
+726,movie,Nothing But the Truth,2000,0.0,tt0216949
+727,movie,Marine Life,2000,9.0,tt0218426
+728,movie,The Kid,2000,7.0,tt0219854
+729,movie,My 5 Wives,2000,9.0,tt0216930
+730,movie,Room to Rent,2001,6.0,tt0218559
+731,movie,Jet Set,2000,6.0,tt0216841
+732,movie,Waydowntown,2000,9.0,tt0219405
+733,movie,Get Your Stuff,2000,6.0,tt0218298
+734,movie,Some Voices,2000,8.0,tt0218616
+735,movie,Meilleur espoir féminin,2000,5.0,tt0216911
+736,short,Comm-Raid on the Potemkin,2000,10.0,tt0219601
+737,movie,The Night Larry Kramer Kissed Me,2000,4.0,tt0219210
+738,movie,The Family Man,2000,12.0,tt0218967
+739,short,Maggie Moore,2000,0.0,tt0219156
+740,short,My Chorus,2000,12.0,tt0219191
+741,movie,Best in Show,2000,10.0,tt0218839
+742,movie,When Brendan Met Trudy,2001,3.0,tt0220157
+743,movie,Lucky Numbers,2000,10.0,tt0219952
+744,movie,Stainless Steal,2000,0.0,tt0220066
+745,short,Above the Dust Level,2000,4.0,tt0220296
+746,movie,Desi's Looking for a New Girl,2000,6.0,tt0219643
+747,movie,The Tigger Movie,2000,6.0,tt0220099
+748,movie,Drop Back Ten,2000,1.0,tt0220399
+749,movie,G-Men from Hell,2000,12.0,tt0221197
+750,movie,Two Thousand and None,2001,7.0,tt0218800
+751,short,Spoof! An Insider's Guide to Short Film Success,2000,0.0,tt0220064
+752,short,"Marisa, Where Art Thou?",2000,0.0,tt0219911
+753,short,The Window,2000,2.0,tt0221711
+754,movie,The Most Fertile Man in Ireland,2001,8.0,tt0220652
+755,short,In God We Trust,2000,1.0,tt0220575
+756,movie,Robbers,2000,0.0,tt0220734
+757,movie,Walk the Talk,2001,3.0,tt0221691
+758,movie,Denti,2000,10.0,tt0221115
+759,movie,Bel Air,2000,3.0,tt0221823
+760,movie,Beautiful Creatures,2001,1.0,tt0221889
+761,short,Little Sister,2000,0.0,tt0221352
+762,movie,The Broken Hearts Club: A Romantic Comedy,2000,10.0,tt0222850
+763,movie,Phir Bhi Dil Hai Hindustani,2000,1.0,tt0222270
+764,movie,A Good Burn,2000,0.0,tt0223379
+765,movie,The Widower,2000,10.0,tt0224394
+766,movie,Cours toujours,2000,1.0,tt0224807
+767,short,What You Lookin' at,2000,0.0,tt0222492
+768,movie,Saltwater,2000,9.0,tt0224050
+769,movie,21,2000,8.0,tt0224451
+770,short,Titler,2000,1.0,tt0224263
+771,movie,Hur som helst är han jävligt död,2000,9.0,tt0223490
+772,movie,Blue Moon,2000,1.0,tt0225196
+773,movie,Le coeur à l'ouvrage,2000,7.0,tt0225410
+774,movie,Lista de espera,2000,6.0,tt0222150
+775,movie,Mi Famosa Desconocida,2000,5.0,tt0226137
+776,movie,North Beach,2000,6.0,tt0226225
+777,movie,Still Doing the Safety Dance,2000,0.0,tt0226488
+778,movie,Fußball ist unser Leben,2000,2.0,tt0225824
+779,short,Night Deposit,2000,4.0,tt0227131
+780,movie,Un paraíso bajo las estrellas,2000,4.0,tt0227224
+781,movie,Épouse-moi,2000,1.0,tt0226708
+782,movie,Danny and Max,2000,0.0,tt0228596
+783,movie,Dexter Dickie,2000,0.0,tt0228214
+784,movie,Drôle de Félix,2001,2.0,tt0228242
+785,movie,Otesánek,2001,1.0,tt0228687
+786,movie,A Little Bit of Lipstick,2000,2.0,tt0228525
+787,movie,3 Chinesen mit dem Kontrabass,2000,3.0,tt0228239
+788,movie,Les insaisissables,2000,5.0,tt0229475
+789,movie,Vive nous!,2000,1.0,tt0229022
+790,movie,Ping!,2000,8.0,tt0228720
+791,short,Bit Players,2000,8.0,tt0230041
+792,movie,The Bunk Witch Project,2000,6.0,tt0230056
+793,movie,For the Cause,2002,5.0,tt0113092
+794,movie,Gang,2000,4.0,tt0116391
+795,movie,The Incorporated,2000,5.0,tt0116628
+796,movie,Heavy Metal 2000,2000,5.0,tt0119273
+797,movie,Mission: Impossible II,2000,7.0,tt0120755
+798,movie,Titan A.E.,2000,8.0,tt0120913
+799,movie,Foiled,2000,0.0,tt0120673
+800,movie,X-Men,2000,9.0,tt0120903
+801,movie,The Crow: Salvation,2000,6.0,tt0132910
+802,movie,Pitch Black,2000,11.0,tt0134847
+803,movie,U-571,2000,9.0,tt0141926
+804,movie,Knockout,2000,2.0,tt0143344
+805,movie,Highlander: Endgame,2000,9.0,tt0144964
+806,movie,Sinbad: Beyond the Veil of Mists,2000,2.0,tt0144608
+807,movie,Shafted!,2000,3.0,tt0147486
+808,movie,Josh,2000,6.0,tt0151150
+809,movie,Yup Yup Man,2005,1.0,tt0157202
+810,movie,The Art of War,2001,1.0,tt0160009
+811,movie,Charlie's Angels,2000,12.0,tt0160127
+812,movie,Shaft,2000,11.0,tt0162650
+813,movie,Hollow Man,2000,8.0,tt0164052
+814,movie,Black Sea 213,2000,4.0,tt0165642
+815,movie,Nautilus,2000,4.0,tt0165400
+816,movie,Romeo Must Die,2000,8.0,tt0165929
+817,movie,Red Team,2000,6.0,tt0167367
+818,movie,Dream Witch,2000,5.0,tt0168714
+819,movie,A Better Way to Die,2001,9.0,tt0168504
+820,movie,Prince of Central Park,2000,12.0,tt0170452
+821,movie,Gladiator,2000,5.0,tt0172495
+822,movie,The Thundering 8th,2000,0.0,tt0171827
+823,movie,Alex l'ariete,2000,7.0,tt0172109
+824,movie,The Million Dollar Kid,2001,4.0,tt0172464
+825,movie,Delta Force One: The Lost Patrol,2000,10.0,tt0176650
+826,movie,Bullfighter,2000,10.0,tt0176579
+827,movie,The Perfect Storm,2000,9.0,tt0177971
+828,movie,Fortress 2,2000,3.0,tt0179183
+829,movie,Mondialito,2001,1.0,tt0179987
+830,movie,Icebreaker,2000,5.0,tt0179861
+831,movie,The Grizzly Six,2000,0.0,tt0179204
+832,movie,Intrepid,2000,4.0,tt0183280
+833,movie,The Specials,2000,9.0,tt0181836
+834,movie,Taxi 2,2001,1.0,tt0183869
+835,movie,Reindeer Games,2000,10.0,tt0184858
+836,movie,Shanghai Noon,2000,6.0,tt0184894
+837,movie,"Farewell, My Love",2000,2.0,tt0184457
+838,movie,Space Cowboys,2000,11.0,tt0186566
+839,movie,The Patriot,2000,7.0,tt0187393
+840,movie,Primary Suspect,2000,6.0,tt0187750
+841,movie,Battlefield Earth,2000,5.0,tt0185183
+842,movie,Brooklyn Sonnet,2000,0.0,tt0187761
+843,movie,Gone in Sixty Seconds,2000,8.0,tt0187078
+844,movie,Point Doom,2000,6.0,tt0186454
+845,movie,Dungeons & Dragons,2001,4.0,tt0190374
+846,movie,Left Behind,2001,2.0,tt0190524
+847,movie,Wo hu cang long,2001,2.0,tt0190332
+848,movie,The Skulls,2000,10.0,tt0192614
+849,movie,Vertical Limit,2001,2.0,tt0190865
+850,movie,Lek,2000,4.0,tt0194104
+851,movie,Accelerator,2000,11.0,tt0193701
+852,movie,Newsbreak,2000,2.0,tt0195944
+853,movie,Starforce,2000,7.0,tt0195308
+854,movie,Hjärta av sten,2000,11.0,tt0196614
+855,movie,The Wrecking Crew,2000,3.0,tt0196219
+856,movie,Under Pressure,2000,2.0,tt0197072
+857,movie,Tiger Claws III,2000,8.0,tt0197951
+858,movie,Black Sea Raid,2000,5.0,tt0197299
+859,movie,Wings of the Crow,2000,12.0,tt0197104
+860,movie,Recipe for Disaster,2000,0.0,tt0198970
+861,movie,Red Planet,2001,2.0,tt0199753
+862,movie,Manhattan Chase,2000,11.0,tt0199748
+863,movie,The Cheapest Movie Ever Made,2000,0.0,tt0201519
+864,movie,Deep Core,2000,10.0,tt0202314
+865,movie,The Alternate,2000,4.0,tt0203835
+866,movie,Pilgrim,2000,7.0,tt0203053
+867,movie,The Way of the Gun,2000,9.0,tt0202677
+868,movie,Ninja Mission 2000,2000,0.0,tt0204499
+869,movie,Airboss III: The Payback,2000,1.0,tt0205729
+870,movie,Hassel/Förgörarna,2000,1.0,tt0208198
+871,movie,Airboss IV: The X Factor,2000,10.0,tt0207299
+872,movie,Chain of Command,2004,6.0,tt0207377
+873,movie,Get Carter,2001,9.0,tt0208988
+874,movie,Nostradamus,2000,4.0,tt0207631
+875,movie,The Chaos Factor,2000,6.0,tt0208037
+876,movie,The Guardian,2000,4.0,tt0207501
+877,movie,Big Momma's House,2000,9.0,tt0208003
+878,movie,Aquarius,2000,0.0,tt0212774
+879,movie,Obstacles,2000,0.0,tt0213127
+880,movie,Miss Congeniality,2001,3.0,tt0212346
+881,movie,Bait,2000,9.0,tt0211938
+882,movie,Citizen Toxie: The Toxic Avenger IV,2008,8.0,tt0212879
+883,movie,Ground Zero,2000,5.0,tt0213690
+884,movie,Last Stand,2000,0.0,tt0212881
+885,movie,Doomsdayer,2000,9.0,tt0214638
+886,movie,Gong yuan 2000 AD,2000,2.0,tt0214728
+887,movie,Faith and the Water Dog,2000,0.0,tt0214683
+888,movie,The Last Patrol,2000,4.0,tt0214871
+889,movie,O Dia da Caça,2000,6.0,tt0215715
+890,movie,The 6th Day,2000,12.0,tt0216216
+891,movie,Total western,2000,7.0,tt0216750
+892,movie,Vampire Hunter D: Bloodlust,2000,10.0,tt0216651
+893,movie,Turn It Up,2000,9.0,tt0216772
+894,movie,Militia,2005,,tt0217654
+895,movie,Mrs. Death 2: Hells Fury,2000,10.0,tt0216926
+896,movie,Agent Red,2000,12.0,tt0218080
+897,movie,Dracula 2000,2001,6.0,tt0219653
+898,movie,Submerged,2000,8.0,tt0218641
+899,movie,La máscara de Zorro,2000,0.0,tt0219169
+900,movie,Pukar,2000,2.0,tt0218533
+901,movie,Blue Shirts,2000,0.0,tt0220336
+902,movie,Daybreak,2000,12.0,tt0219640
+903,movie,G-Men from Hell,2000,12.0,tt0221197
+904,movie,Khauff,2000,3.0,tt0220596
+905,movie,Mach 2,2000,6.0,tt0222020
+906,movie,Operation Delta Force 5: Random Fire,2000,,tt0227200
+907,movie,Ojos que no ven,2000,5.0,tt0226238
+908,movie,Proof of Life,2001,3.0,tt0228750
+909,movie,Ultraman Tiga: The Final Odyssey,2000,0.0,tt0228982
+910,movie,Tha Eastsidaz,2000,8.0,tt0229362
+911,movie,Blue Belgium,2000,,tt0230049
+912,movie,Bulandi,2000,1.0,tt0230055
+913,movie,The Last Man,2002,2.0,tt0231956
+914,movie,Mela,2000,1.0,tt0232079
+915,movie,Future Murder,2000,8.0,tt0233764
+916,movie,Epicenter,2001,3.0,tt0233656
+917,movie,Command Approved,2000,0.0,tt0234321
+918,movie,Kaho Naa... Pyaar Hai,2000,1.0,tt0234000
+919,movie,Inte bara mördare,2000,5.0,tt0235485
+920,movie,Gekijô-ban poketto monsutâ: Kesshô-tô no teiô,2001,5.0,tt0235679
+921,movie,Isola: Tajuu jinkaku shôjo,2000,1.0,tt0233910
+922,movie,Blinkende lygter,2000,11.0,tt0236027
+923,movie,Dong jing gong lüe,2000,1.0,tt0233600
+924,movie,Dora-heita,2000,5.0,tt0236167
+925,movie,Brat 2,2000,5.0,tt0238883
+926,short,G.,2000,1.0,tt0240524
+927,movie,Monday,2001,5.0,tt0239655
+928,short,Last Mistake,2000,0.0,tt0240671
+929,movie,Castle Rock,2000,,tt0240400
+930,movie,Hera Pheri,2000,3.0,tt0242519
+931,movie,Never Look Back,2000,0.0,tt0244095
+932,movie,Mercy Streets,2000,10.0,tt0243415
+933,movie,Crackerjack 3,2003,3.0,tt0243196
+934,movie,Supêsutoraberâzu,2000,4.0,tt0243573
+935,movie,Ides of March,2007,2.0,tt0243327
+936,movie,Kuet chin chi gam ji din,2000,2.0,tt0243876
+937,movie,Solid Cover,2000,0.0,tt0246241
+938,short,Infection,2000,5.0,tt0245967
+939,movie,Pierwszy milion,2000,4.0,tt0244715
+940,movie,Warpath,2000,0.0,tt0246323
+941,movie,Wilder,2000,11.0,tt0246332
+942,movie,Yau ching sui yuet: San Gai goo si,2000,3.0,tt0244884
+943,movie,Bad Guys,2000,0.0,tt0246446
+944,movie,Mission Kashmir,2000,10.0,tt0248185
+945,movie,Mehanizam,2001,1.0,tt0246776
+946,movie,Split Intent,2000,0.0,tt0247718
+947,movie,Badal,2000,2.0,tt0247944
+948,movie,Je li jasno prijatelju?,2000,11.0,tt0250445
+949,movie,Hum To Mohabbat Karega,2000,5.0,tt0249588
+950,movie,Take It to the Limit,2000,0.0,tt0251422
+951,movie,Shun liu ni liu,2000,10.0,tt0251433
+952,movie,Bichhoo,2000,7.0,tt0252277
+953,movie,Dak ging san yan lui 2,2000,12.0,tt0251094
+954,short,Kog-Head and Meatus,2000,0.0,tt0251778
+955,movie,Jungle,2000,7.0,tt0251756
+956,movie,Kouravudu,2000,7.0,tt0250476
+957,movie,Kumite,2000,0.0,tt0253193
+958,movie,Game Day,2000,0.0,tt0255189
+959,movie,Kurukshetra,2000,11.0,tt0255309
+960,movie,Gojira tai Megagirasu: Jî shômetsu sakusen,2000,12.0,tt0255198
+961,movie,Burisuta,2000,7.0,tt0255019
+962,movie,Hamara Dil Aapke Paas Hai,2000,8.0,tt0255212
+963,movie,El viaje de Arián,2001,5.0,tt0255679
+964,movie,Khiladi 420,2000,12.0,tt0255305
+965,short,Vigilante,2000,9.0,tt0253897
+966,movie,Aaghaaz,2000,10.0,tt0254927
+967,movie,Deewane,2000,8.0,tt0255097
+968,movie,Sensitive New Age Killer,2001,5.0,tt0256375
+969,short,The End,2000,8.0,tt0258550
+970,movie,Manoharam,2000,0.0,tt0258785
+971,short,405,2000,6.0,tt0259165
+972,movie,Gung Fu: The New Dragon,2000,0.0,tt0258604
+973,movie,Cheung wong,2000,5.0,tt0258489
+974,movie,Enduro Bojz,2000,9.0,tt0258552
+975,movie,The Operative,2000,12.0,tt0258862
+976,movie,Jong gwai lei: Huet gwong ji zoi,2000,7.0,tt0259023
+977,movie,Digimon: The Movie,2000,10.0,tt0259974
+978,movie,Gojô reisenki: Gojoe,2000,10.0,tt0260054
+979,movie,The Price of Air,2000,9.0,tt0261199
+980,movie,Gongdong gyeongbi guyeok JSA,2000,9.0,tt0260991
+981,short,The Heart of the World,2000,9.0,tt0260948
+982,movie,Oi yue shing,2000,9.0,tt0261125
+983,short,King's Ransom,2000,0.0,tt0262544
+984,movie,Jinji pojiang,2006,11.0,tt0262529
+985,movie,Chek,2000,0.0,tt0262329
+986,movie,Blind Target,2000,0.0,tt0260758
+987,movie,Bangkok Dangerous,2002,1.0,tt0263101
+988,movie,The Black Rose,2000,0.0,tt0265088
+989,movie,Deep Six,2000,4.0,tt0263256
+990,movie,Lagarista,2000,9.0,tt0264778
+991,movie,Batoru rowaiaru,2000,12.0,tt0266308
+992,movie,Howaitoauto,2000,8.0,tt0266048
+993,movie,Lei ting zhan jing,2002,5.0,tt0266408
+994,movie,"No Deposit, No Return",2000,0.0,tt0267784
+995,short,The Right Hook,2001,2.0,tt0265647
+996,movie,Jukgeona hokeun nabbeugeona,2000,7.0,tt0267622
+997,short,50CC,2000,0.0,tt0267242
+998,movie,Oro diablo,2000,6.0,tt0268255
+999,movie,El camino,2000,8.0,tt0269043
+1000,movie,Fah talai jone,2002,1.0,tt0269217
+1001,movie,Escaflowne,2000,6.0,tt0270933
+1002,movie,Champion,2000,12.0,tt0270880
+1003,movie,Mong min ji to,2000,10.0,tt0271641
+1004,movie,Papá es un ídolo,2000,6.0,tt0271701
+1005,movie,Xiang si chen xianzai,2000,4.0,tt0270271
+1006,movie,Ikíngut,2002,1.0,tt0271003
+1007,movie,Highway 395,2000,11.0,tt0270989
+1008,movie,Bhai Thakur,2000,0.0,tt0271996
+1009,movie,Raju Chacha,2000,12.0,tt0271748
+1010,movie,San tau chi sai doi,2000,11.0,tt0272822
+1011,movie,Blinker en het Bagbag-juweel,2000,12.0,tt0272010
+1012,movie,Cyberon,2000,12.0,tt0273161
+1013,movie,Dada Sahib,2000,0.0,tt0273516
+1014,short,The Last Birthday Card,2000,0.0,tt0274625
+1015,movie,Hakkyousuru kuchibiru,2000,2.0,tt0274541
+1016,movie,Narasimham,2000,1.0,tt0273870
+1017,movie,Valliettan,2000,0.0,tt0274188
+1018,movie,Blood: The Last Vampire,2000,11.0,tt0275230
+1019,movie,Bao li xing jing,2000,1.0,tt0275052
+1020,movie,Blood and Honor,2000,1.0,tt0275969
+1021,movie,Hysteric,2000,5.0,tt0276210
+1022,movie,Gau geung ying ging,2000,3.0,tt0276154
+1023,movie,Azaad,2000,9.0,tt0278274
+1024,movie,Khoroshie i plokhie,2000,1.0,tt0277736
+1025,movie,Oi ngo bit jow,2000,10.0,tt0278818
+1026,short,Argent content,2000,0.0,tt0275932
+1027,movie,Versus,2002,2.0,tt0275773
+1028,movie,Sang sei kuen chuk,2000,1.0,tt0277289
+1029,movie,Bichunmoo,2000,7.0,tt0278351
+1030,movie,Fatal Conflict,2000,11.0,tt0279809
+1031,movie,Ostatnia misja,2000,3.0,tt0281019
+1032,movie,Anakiseuteu Anarchists,2000,4.0,tt0280427
+1033,movie,Epoch of Lotus,2000,0.0,tt0282466
+1034,short,Freeware,2000,0.0,tt0282501
+1035,movie,Mark Antony,2000,0.0,tt0282723
+1036,movie,For the Cause,2002,5.0,tt0113092
+1037,movie,Heavy Metal 2000,2000,5.0,tt0119273
+1038,movie,The Emperor's New Groove,2001,6.0,tt0120917
+1039,movie,Dinosaur,2000,6.0,tt0130623
+1040,movie,The Crow: Salvation,2000,6.0,tt0132910
+1041,movie,The Adventures of Rocky & Bullwinkle,2000,6.0,tt0131704
+1042,movie,The Road to El Dorado,2000,10.0,tt0138749
+1043,movie,Highlander: Endgame,2000,9.0,tt0144964
+1044,movie,Red Lipstick,2000,4.0,tt0144574
+1045,movie,The Legend of Bagger Vance,2001,5.0,tt0146984
+1046,movie,Subconscious Cruelty,2001,4.0,tt0166370
+1047,movie,Hjælp! Jeg er en fisk,2001,10.0,tt0168856
+1048,movie,How the Grinch Stole Christmas,2000,11.0,tt0170016
+1049,movie,Ballen i øyet,2000,2.0,tt0172160
+1050,movie,Bullfighter,2000,10.0,tt0176579
+1051,short,Dinner,2000,0.0,tt0181486
+1052,movie,The Specials,2000,9.0,tt0181836
+1053,movie,Babaouo,2000,2.0,tt0185170
+1054,movie,Little Nicky,2000,11.0,tt0185431
+1055,short,They Walk Among Us,2000,0.0,tt0187697
+1056,movie,Insatiable Wives,2007,9.0,tt0188688
+1057,movie,Dungeons & Dragons,2001,4.0,tt0190374
+1058,movie,Surrender,2003,12.0,tt0190052
+1059,movie,Left Behind,2001,2.0,tt0190524
+1060,movie,Wo hu cang long,2001,2.0,tt0190332
+1061,movie,The Little Vampire,2001,4.0,tt0192255
+1062,movie,Picking Up the Pieces,2000,8.0,tt0192455
+1063,movie,Merlin: The Return,2000,12.0,tt0193318
+1064,movie,Nachtmusik,2000,0.0,tt0195859
+1065,movie,Tiger Claws III,2000,8.0,tt0197951
+1066,movie,Thomas and the Magic Railroad,2000,12.0,tt0205461
+1067,short,Pain au chocolat - Chocolate Pain,2000,8.0,tt0204543
+1068,movie,Blessed Art Thou,2000,1.0,tt0205778
+1069,movie,What Women Want,2001,2.0,tt0207201
+1070,movie,The Summer of the Kavalcutes,2000,0.0,tt0206324
+1071,movie,Sirens of the Deep,2000,0.0,tt0207271
+1072,movie,Woman on Top,2000,9.0,tt0206420
+1073,short,Architecture of Reassurance,2000,5.0,tt0206558
+1074,short,Submitted for Your Approval,2000,2.0,tt0207764
+1075,movie,Ginger Snaps,2001,5.0,tt0210070
+1076,movie,"Paris, mon petit corps est bien las de ce grand monde",2000,6.0,tt0210890
+1077,movie,Citizen Toxie: The Toxic Avenger IV,2008,8.0,tt0212879
+1078,short,Cirque du Soleil: Journey of Man,2000,5.0,tt0213749
+1079,movie,Sur un air d'autoroute,2000,6.0,tt0215223
+1080,movie,Deuxième vie,2000,10.0,tt0216522
+1081,movie,Vampire Hunter D: Bloodlust,2000,10.0,tt0216651
+1082,movie,Deeply,2003,11.0,tt0218141
+1083,movie,The Convent,2000,7.0,tt0217331
+1084,movie,Dracula 2000,2001,6.0,tt0219653
+1085,movie,The Kid,2000,7.0,tt0219854
+1086,movie,Novye Bremenskiye,2000,5.0,tt0219214
+1087,movie,The Family Man,2000,12.0,tt0218967
+1088,short,Maria & Jose,2000,0.0,tt0219909
+1089,movie,The Gift,2001,4.0,tt0219699
+1090,movie,Gaja Gamini,2000,12.0,tt0221982
+1091,movie,Sex Files: Ancient Desires,2000,10.0,tt0222717
+1092,movie,Jubunairu,2000,7.0,tt0223593
+1093,movie,Sex Files: Creating the Perfect Man,2000,9.0,tt0223911
+1094,movie,Chilean Gothic,2000,10.0,tt0224755
+1095,movie,Faust: Love of the Damned,2001,2.0,tt0223268
+1096,movie,Otesánek,2001,1.0,tt0228687
+1097,movie,Book of Shadows: Blair Witch 2,2000,11.0,tt0229260
+1098,movie,Bedazzled,2001,2.0,tt0230030
+1099,movie,Ultraman Tiga: The Final Odyssey,2000,0.0,tt0228982
+1100,movie,Princezna ze mlejna 2,2000,2.0,tt0232465
+1101,movie,Future Murder,2000,8.0,tt0233764
+1102,movie,Král sokolu,2000,3.0,tt0234058
+1103,movie,Back to the Secret Garden,2000,8.0,tt0233277
+1104,short,Poketto monsutâ: Pichû to Pikachû,2000,7.0,tt0235680
+1105,movie,Mirakel,2001,11.0,tt0235596
+1106,short,Plunge,2000,9.0,tt0234482
+1107,movie,Gekijô-ban poketto monsutâ: Kesshô-tô no teiô,2001,5.0,tt0235679
+1108,movie,The Nine Lives of Tomas Katz,2001,1.0,tt0235618
+1109,short,Rejected,2000,7.0,tt0234588
+1110,movie,Rat,2000,10.0,tt0234570
+1111,movie,Harte Jungs,2000,3.0,tt0239450
+1112,movie,Kytice,2000,12.0,tt0239102
+1113,movie,Mariken,2000,12.0,tt0239593
+1114,movie,El arte de morir,2000,3.0,tt0242285
+1115,movie,Lava,2000,5.0,tt0243378
+1116,movie,Naked Wishes,2000,0.0,tt0242716
+1117,short,Sunday in the Park,2000,11.0,tt0243592
+1118,movie,Supêsutoraberâzu,2000,4.0,tt0243573
+1119,movie,Bulgaria - tova sam az!,2000,3.0,tt0243160
+1120,short,Anacronías,2000,0.0,tt0243114
+1121,movie,Kuet chin chi gam ji din,2000,2.0,tt0243876
+1122,movie,Uzumaki,2000,2.0,tt0244870
+1123,movie,Selkie,2000,4.0,tt0245428
+1124,movie,Rito terminal,2000,9.0,tt0246199
+1125,movie,L'affaire Marcorelle,2000,9.0,tt0247153
+1126,short,Les éléphants de la planète Mars,2000,0.0,tt0247312
+1127,movie,The Price of Milk,2001,3.0,tt0249893
+1128,short,La promesse,2000,5.0,tt0250674
+1129,short,Ghost of Stephen Foster,2000,0.0,tt0251714
+1130,movie,Combat d'amour en songe,2000,11.0,tt0252335
+1131,movie,The Adventures of Cinderella's Daughter,2000,0.0,tt0250944
+1132,movie,Comédie de l'innocence,2001,2.0,tt0254325
+1133,movie,Sex Files: Sexually Bewitched,2000,8.0,tt0256378
+1134,movie,Swiateczna przygoda,2000,11.0,tt0257255
+1135,movie,Ayollar saltanaty,2001,1.0,tt0257288
+1136,movie,Jong gwai lei: Huet gwong ji zoi,2000,7.0,tt0259023
+1137,movie,De zee die denkt,2000,12.0,tt0261277
+1138,short,Vergessene Ritter,2000,9.0,tt0260500
+1139,movie,Las aventuras de Dios,2002,9.0,tt0261546
+1140,movie,Alligator Alley,2000,10.0,tt0262222
+1141,short,The Heart of the World,2000,9.0,tt0260948
+1142,short,East of West,2000,12.0,tt0263300
+1143,movie,Aa! Megamisama! The Movie,2000,10.0,tt0265018
+1144,movie,Tainá: Uma Aventura na Amazônia,2001,1.0,tt0264079
+1145,short,Lion's Mouth,2014,8.0,tt0265287
+1146,movie,The Scarecrow,2000,8.0,tt0263971
+1147,short,Mijn eerste Sjeekspier,2000,0.0,tt0264899
+1148,movie,Sex Files: Erotic Possessions,2000,11.0,tt0264581
+1149,movie,Animated Corpse,2000,8.0,tt0267263
+1150,movie,The Irrefutable Truth About Demons,2001,3.0,tt0267601
+1151,short,Once,2000,0.0,tt0267801
+1152,movie,"Corazón, las alegrías de Pantriste",2000,7.0,tt0269112
+1153,movie,Dokfa nai meuman,2016,1.0,tt0269587
+1154,movie,Naken,2000,12.0,tt0269604
+1155,movie,Escaflowne,2000,6.0,tt0270933
+1156,movie,O Auto da Compadecida,2000,9.0,tt0271383
+1157,short,A Porcelain Dream,2000,7.0,tt0271726
+1158,movie,Fan yi cho,2000,12.0,tt0274626
+1159,movie,Radio Free Steve,2000,10.0,tt0274748
+1160,movie,La isla del cangrejo,2000,10.0,tt0276226
+1161,movie,Night of the Vampire Hunter,2000,9.0,tt0276637
+1162,movie,Versus,2002,2.0,tt0275773
+1163,movie,Nebo sateliti,2001,2.0,tt0277919
+1164,movie,Camera,2000,7.0,tt0278380
+1165,movie,Bichunmoo,2000,7.0,tt0278351
+1166,short,Roy,2000,0.0,tt0278682
+1167,short,Biopolis,2000,,tt0280480
+1168,movie,Epoch of Lotus,2000,0.0,tt0282466
+1169,movie,Sakuya: yôkaiden,2000,8.0,tt0282936
+1170,movie,Siworae,2000,9.0,tt0282599
+1171,short,Zapping,2008,11.0,tt0284678
+1172,short,Murmur,2000,5.0,tt0282765
+1173,short,Nevermore,2000,7.0,tt0284347
+1174,short,The Limited,2000,8.0,tt0285295
+1175,movie,Misterii,2000,0.0,tt0287566
+1176,short,Krasna Amerika,2000,6.0,tt0288090
+1177,movie,Vasilisa,2000,,tt0288299
+1178,short,Zero,2000,2.0,tt0291577
+1179,short,Yaourts mystiques,2000,0.0,tt0293714
+1180,short,Moebio,2000,0.0,tt0292116
+1181,movie,01412 pasasingeum,2000,4.0,tt0294237
+1182,short,Una furtiva lagrima,2000,9.0,tt0293170
+1183,movie,Yonimo kimyô na monogatari - Eiga no tokubetsu hen,2000,11.0,tt0293984
+1184,short,7337,2000,10.0,tt0295843
+1185,short,Les vacances de Sam,2000,0.0,tt0295672
+1186,short,Lost & Found,2000,9.0,tt0298041
+1187,short,Gaia,2000,0.0,tt0296647
+1188,short,Scarlett Mecca and the Pentagram Girl,2000,7.0,tt0298141
+1189,short,Fade,2000,10.0,tt0299865
+1190,short,Polednice,2000,4.0,tt0300354
+1191,short,Heart of Gold,2000,11.0,tt0301389
+1192,short,Symphony of the Forest,2000,0.0,tt0301913
+1193,movie,Kâdokaputâ Sakura: Fûin sareta kâdo,2000,7.0,tt0301083
+1194,short,Revolution,2000,0.0,tt0301774
+1195,short,The Blessing of Prometheus,2000,11.0,tt0303775
+1196,short,Gaia Short,2000,5.0,tt0309619
+1197,short,Things You Don't Know,2000,4.0,tt0311908
+1198,short,A Verdade às Vezes Mancha,2000,8.0,tt0311974
+1199,short,La reine de nacre,2000,0.0,tt0313521
+1200,short,A Sétima Arte,2000,0.0,tt0314750
+1201,short,Baektopür,2000,0.0,tt0315248
+1202,short,A Cobra de Fogo,2000,8.0,tt0313909
+1203,movie,Heukwoo,2000,3.0,tt0315956
+1204,short,Pierres et prières,2000,0.0,tt0316403
+1205,short,Quak,2000,0.0,tt0316458
+1206,short,"Dragonflies, the Baby Cries",2000,0.0,tt0322083
+1207,movie,Titanic - La leggenda continua,2000,9.0,tt0330994
+1208,movie,A Dog's Tale,2000,4.0,tt0331997
+1209,short,Ruby's Slippers,2000,0.0,tt0334263
+1210,short,Under dagen,2000,10.0,tt0334578
+1211,short,El taxista perfecto,2000,0.0,tt0337275
+1212,movie,Pedrong palad,2000,3.0,tt0347758
+1213,movie,Spirit Warriors,2000,12.0,tt0348087
+1214,movie,"Pedro Penduko, Episode II: The Return of the Comeback",2000,5.0,tt0347757
+1215,movie,Sheng shi chuan shuo,2000,1.0,tt0347996
+1216,short,Never Land,2000,2.0,tt0352631
+1217,short,Let's Play Two,2000,3.0,tt0356819
+1218,movie,"Marina, del otro lado del tiempo",2000,0.0,tt0359661
+1219,movie,Nagadevathe,2000,0.0,tt0359730
+1220,short,Snedronningen,2000,4.0,tt0362160
+1221,short,The Boy with the Big Head,2000,0.0,tt0367562
+1222,short,Fugue,2000,11.0,tt0367759
+1223,short,The Anniversary,2000,7.0,tt0364948
+1224,short,Type O,2000,6.0,tt0368384
+1225,short,Nomina Domini,2000,8.0,tt0371017
+1226,movie,Mitades,2000,6.0,tt0374051
+1227,short,Fotagogos,2000,0.0,tt0374663
+1228,short,Skymaskinen,2000,,tt0376191
+1229,movie,Valdemar,2000,,tt0380790
+1230,short,Les conserves,2001,1.0,tt0381106
+1231,movie,Éber álmok,2000,8.0,tt0385367
+1232,short,Aubade,2000,5.0,tt0389771
+1233,short,The Furry Lady,2000,11.0,tt0396605
+1234,short,Amphitryon,2000,2.0,tt0401226
+1235,movie,Le sourire d'Alice,2000,0.0,tt0413296
+1236,movie,Mokus,2000,3.0,tt0415164
+1237,short,La última inocencia,2000,,tt0431497
+1238,movie,The Ritual,2000,9.0,tt0433626
+1239,short,Interior-Noche,2000,3.0,tt0439632
+1240,short,Karel Is Karel,2000,,tt0453122
+1241,short,Perfect Pale Blue,2000,1.0,tt0485142
+1242,movie,Quand la nuit se fait tango,2000,,tt0486461
+1243,short,Aici nu locuieste nimeni,2000,12.0,tt0487246
+1244,short,Ich will!,2008,4.0,tt0489494
+1245,movie,Deadfall,2000,0.0,tt0128158
+1246,movie,Scream 3,2000,4.0,tt0134084
+1247,movie,Supernova,2000,6.0,tt0134983
+1248,movie,Pitch Black,2000,11.0,tt0134847
+1249,movie,Mothman,2000,0.0,tt0137115
+1250,movie,American Psycho,2000,9.0,tt0144084
+1251,movie,Eyes to Heaven,2000,3.0,tt0148120
+1252,movie,Ricky 6,2001,4.0,tt0156020
+1253,movie,Island of the Dead,2000,7.0,tt0157836
+1254,movie,Lost Souls,2001,4.0,tt0160484
+1255,movie,What Lies Beneath,2000,10.0,tt0161081
+1256,movie,Bless the Child,2001,8.0,tt0163983
+1257,movie,Hollow Man,2000,8.0,tt0164052
+1258,movie,Big Monster on Campus,2000,2.0,tt0164192
+1259,short,The Promise,2000,1.0,tt0164829
+1260,movie,Subconscious Cruelty,2001,4.0,tt0166370
+1261,movie,Holgi,2000,2.0,tt0166649
+1262,movie,Party Crasher: My Bloody Birthday,2000,10.0,tt0172949
+1263,movie,Michael Angel,2000,2.0,tt0172794
+1264,movie,Cherry Falls,2001,6.0,tt0175526
+1265,movie,La jaula,2000,3.0,tt0180767
+1266,short,Dinner,2000,0.0,tt0181486
+1267,movie,Anatomie,2000,2.0,tt0187696
+1268,movie,Cut,2000,3.0,tt0189456
+1269,movie,Shadow of the Vampire,2001,1.0,tt0189998
+1270,movie,Blood,2000,7.0,tt0190273
+1271,movie,Urban Legends: Final Cut,2000,9.0,tt0192731
+1272,movie,Bloodline: The Devil's Game,2000,0.0,tt0191834
+1273,movie,Merlin: The Return,2000,12.0,tt0193318
+1274,movie,Final Destination,2000,6.0,tt0195714
+1275,movie,"Free Delivery, the Horror!",2000,0.0,tt0196573
+1276,movie,Paranoid,2000,10.0,tt0197750
+1277,movie,Spiders,2000,12.0,tt0203940
+1278,movie,Reaper,2000,3.0,tt0203830
+1279,movie,Psycho Beach Party,2001,9.0,tt0206226
+1280,movie,Believe,2000,3.0,tt0207333
+1281,movie,Ginger Snaps,2001,5.0,tt0210070
+1282,movie,The Cell,2000,11.0,tt0209958
+1283,movie,Bruiser,2000,2.0,tt0212830
+1284,movie,Terror Tract,2001,6.0,tt0211661
+1285,short,Twitch,2004,9.0,tt0213295
+1286,movie,Citizen Toxie: The Toxic Avenger IV,2008,8.0,tt0212879
+1287,movie,Vampire Hunter D: Bloodlust,2000,10.0,tt0216651
+1288,movie,Christina's House,2000,4.0,tt0216620
+1289,movie,Devil in the Flesh 2,2000,9.0,tt0217086
+1290,movie,Sandy Hook Lingerie Party Massacre,2000,6.0,tt0217780
+1291,short,Paranoid,2007,10.0,tt0216969
+1292,movie,The Convent,2000,7.0,tt0217331
+1293,movie,The St. Francisville Experiment,2001,10.0,tt0218625
+1294,movie,Mrs. Death 2: Hells Fury,2000,10.0,tt0216926
+1295,movie,The Calling,2000,12.0,tt0218067
+1296,movie,Dracula 2000,2001,6.0,tt0219653
+1297,movie,The Asylum,2000,0.0,tt0218824
+1298,movie,The Gift,2001,4.0,tt0219699
+1299,movie,Chasing Sleep,2001,5.0,tt0221069
+1300,movie,Seven Days to Live,2001,6.0,tt0221928
+1301,movie,The Widower,2000,10.0,tt0224394
+1302,movie,Chilean Gothic,2000,10.0,tt0224755
+1303,movie,Faust: Love of the Damned,2001,2.0,tt0223268
+1304,short,Coven,1997,6.0,tt0225434
+1305,movie,Ángel negro,2000,11.0,tt0226701
+1306,movie,Catacombs,2000,0.0,tt0228121
+1307,movie,Otesánek,2001,1.0,tt0228687
+1308,movie,Book of Shadows: Blair Witch 2,2000,11.0,tt0229260
+1309,movie,The Spreading Ground,2000,2.0,tt0228891
+1310,movie,In the Light of the Moon,2001,7.0,tt0230169
+1311,short,Massakern i Åsbringen,2000,0.0,tt0228570
+1312,movie,Hitchghost.com,2000,0.0,tt0228389
+1313,movie,Sleepwalker,2000,8.0,tt0228871
+1314,short,Extremism Breaks My Balls,2000,10.0,tt0230201
+1315,movie,Jacks or Better,2000,6.0,tt0230350
+1316,movie,Drive In,2000,0.0,tt0231496
+1317,movie,Sleepy Hollow High,2000,0.0,tt0232657
+1318,movie,The Blood,2000,0.0,tt0235239
+1319,movie,The Doorway,2000,10.0,tt0235353
+1320,movie,The Bare Wench Project,2000,5.0,tt0233289
+1321,movie,Isola: Tajuu jinkaku shôjo,2000,1.0,tt0233910
+1322,movie,Sanctimony,2001,10.0,tt0234652
+1323,movie,Ringu 0: Bâsudei,2000,1.0,tt0235712
+1324,movie,"Stop It, You're Killing Me",2000,0.0,tt0234811
+1325,movie,Mirror Mirror 4: Reflections,2000,5.0,tt0236502
+1326,movie,Promenons-nous dans les bois,2000,11.0,tt0236638
+1327,movie,Vampire Night,2000,0.0,tt0236832
+1328,movie,Jiu yue jiu,2000,1.0,tt0236944
+1329,movie,Red Rum,2000,0.0,tt0237643
+1330,movie,The Sculptress,2000,10.0,tt0237706
+1331,movie,Sacred Flesh,2000,3.0,tt0237680
+1332,movie,Flashback - Mörderische Ferien,2000,4.0,tt0239406
+1333,movie,Home: The Horror Story,2000,0.0,tt0238276
+1334,movie,The Horrible Dr. Bones,2000,4.0,tt0240585
+1335,movie,Kytice,2000,12.0,tt0239102
+1336,movie,Hardcore Poisoned Eyes,2000,0.0,tt0241526
+1337,short,Cursed Part 3,2000,,tt0242399
+1338,movie,El arte de morir,2000,3.0,tt0242285
+1339,movie,Voyeur.com,2000,0.0,tt0243650
+1340,movie,Det okända.,2000,10.0,tt0243465
+1341,movie,Anaza hevun,2000,4.0,tt0244975
+1342,movie,Uzumaki,2000,2.0,tt0244870
+1343,movie,Oliver Twisted,2000,0.0,tt0246124
+1344,movie,Medley - Brandelli di scuola,2000,4.0,tt0244653
+1345,movie,Faces of Gore 2,2000,5.0,tt0246611
+1346,short,Dinner for Two,2000,11.0,tt0251051
+1347,movie,A Chronicle of Corpses,2000,3.0,tt0249443
+1348,movie,Zora la vampira,2000,9.0,tt0248626
+1349,short,Ghost of Stephen Foster,2000,0.0,tt0251714
+1350,movie,Faces of Gore 3,2000,0.0,tt0251695
+1351,movie,Carnivore,2000,0.0,tt0251005
+1352,movie,Sideshow,2001,11.0,tt0253700
+1353,short,À bras raccourcis,2000,0.0,tt0253994
+1354,movie,Gojira tai Megagirasu: Jî shômetsu sakusen,2000,12.0,tt0255198
+1355,movie,Iki-jigoku,2000,6.0,tt0255237
+1356,movie,Yam yeung lo 7: Chong dou zing,2000,1.0,tt0253842
+1357,movie,The American Nightmare,2003,7.0,tt0259182
+1358,short,R.I.P.,2000,0.0,tt0259528
+1359,short,Anniversary Retreat,2000,2.0,tt0259186
+1360,short,Vergessene Ritter,2000,9.0,tt0260500
+1361,movie,Up Syndrome,2009,4.0,tt0261375
+1362,movie,The 13th Sign,2000,8.0,tt0263005
+1363,movie,Paranoid,2000,0.0,tt0265496
+1364,short,The Box,2000,6.0,tt0263154
+1365,movie,Addicted to Murder 3: Blood Lust,2000,0.0,tt0264335
+1366,movie,Head Cheerleader Dead Cheerleader,2000,4.0,tt0264675
+1367,short,Xyzfear,2000,10.0,tt0267128
+1368,movie,Monarch,2014,9.0,tt0264916
+1369,movie,The Irrefutable Truth About Demons,2001,3.0,tt0267601
+1370,movie,Kurosufaia,2000,6.0,tt0266870
+1371,movie,Yau guk yeuk wooi,2000,12.0,tt0266073
+1372,movie,Bimil,2000,6.0,tt0268996
+1373,movie,Gawi,2000,7.0,tt0269266
+1374,movie,Vampires of Sorority Row Part II,2000,0.0,tt0271249
+1375,short,Pâques man,2000,8.0,tt0271744
+1376,short,Zivi mrtvaci,2000,0.0,tt0271887
+1377,movie,Distant Shadow,2000,10.0,tt0273539
+1378,movie,Helter Skelter,2000,0.0,tt0273259
+1379,movie,Junk: Shiryô-gari,2000,1.0,tt0273302
+1380,movie,Hakkyousuru kuchibiru,2000,2.0,tt0274541
+1381,movie,Blood: The Last Vampire,2000,11.0,tt0275230
+1382,movie,Night of the Vampire Hunter,2000,9.0,tt0276637
+1383,movie,Pangarap ng puso,2000,8.0,tt0278617
+1384,movie,Sheng hua te jing: Sang shi ren wu,2000,11.0,tt0276500
+1385,movie,Versus,2002,2.0,tt0275773
+1386,short,Roy,2000,0.0,tt0278682
+1387,movie,Daehakno-yeseo maechoon-hadaka tomaksalhae danghan yeogosaeng ajik Daehakno-ye Issda,2000,12.0,tt0280140
+1388,movie,Tomie: Replay,2000,2.0,tt0279474
+1389,movie,Devadoothan,2000,0.0,tt0280599
+1390,short,Super Duper,2000,8.0,tt0281243
+1391,movie,Indriyam,2000,6.0,tt0283405
+1392,short,Unter Wasser,2000,0.0,tt0281323
+1393,short,Vomi d'amour,2000,0.0,tt0287103
+1394,movie,Rats,2000,1.0,tt0285973
+1395,movie,Ng goi ze wai,2000,5.0,tt0287989
+1396,movie,Haebyeoneuro gada,2000,8.0,tt0291043
+1397,short,Coming Out,2000,8.0,tt0293044
+1398,movie,Harpy,2000,7.0,tt0293217
+1399,movie,Ika-13 kapitulo,2000,8.0,tt0292008
+1400,movie,Gongpo taxi,2000,9.0,tt0294604
+1401,movie,Blair Witch WebFest,2000,10.0,tt0292977
+1402,movie,Yonimo kimyô na monogatari - Eiga no tokubetsu hen,2000,11.0,tt0293984
+1403,short,Horror,2000,0.0,tt0295321
+1404,movie,Gui ming mo,2000,3.0,tt0295445
+1405,short,7337,2000,10.0,tt0295843
+1406,movie,Titus Andronicus,2000,8.0,tt0296898
+1407,short,Lost & Found,2000,9.0,tt0298041
+1408,movie,Taan shiu hung chow,2000,3.0,tt0296229
+1409,movie,Yam fung yee,2000,11.0,tt0297699
+1410,movie,The Big Finish,2000,0.0,tt0297787
+1411,short,Scarlett Mecca and the Pentagram Girl,2000,7.0,tt0298141
+1412,short,Fade,2000,10.0,tt0299865
+1413,movie,Zzikhimyeon jukneunda,2000,8.0,tt0301770
+1414,short,Heart of Gold,2000,11.0,tt0301389
+1415,movie,Caminata espacial,2000,0.0,tt0301079
+1416,short,Vingança Macabra,2000,2.0,tt0309041
+1417,short,Emmerich,2000,1.0,tt0309560
+1418,short,Near,2000,0.0,tt0311572
+1419,short,Blood and Donuts,2000,0.0,tt0319073
+1420,movie,Nutbag,2000,12.0,tt0320187
+1421,movie,Reinkarnasi,2000,0.0,tt0326625
+1422,movie,Ju-on 2,2004,4.0,tt0330501
+1423,short,Nathán: El peluche asesino,2000,11.0,tt0332264
+1424,movie,Boogiepop wa Warawanai,2000,0.0,tt0331906
+1425,short,Anoche soñé que habías muerto,2000,0.0,tt0335891
+1426,short,Killer,2001,6.0,tt0336697
+1427,movie,La texana maldita,2000,0.0,tt0341611
+1428,movie,Anghel dela guardia,2000,8.0,tt0346511
+1429,movie,San chuen liu see II: Sik ji ngoc gwai,2000,9.0,tt0345885
+1430,movie,Spirit Warriors,2000,12.0,tt0348087
+1431,movie,Ang babaeng putik,2000,3.0,tt0349092
+1432,short,All of the Dead,2000,0.0,tt0353172
+1433,movie,Sang yan mat kan: Che fa,2000,3.0,tt0354894
+1434,movie,Inmu,2004,5.0,tt0356741
+1435,short,Reign of the Dead,2000,3.0,tt0358668
+1436,short,Usher,2000,7.0,tt0360140
+1437,movie,"Marina, del otro lado del tiempo",2000,0.0,tt0359661
+1438,short,Nekrolog,2000,10.0,tt0361950
+1439,short,The Puzzle,2000,4.0,tt0360908
+1440,movie,Nightmare in Shallow Point,2000,0.0,tt0362911
+1441,short,Skoteina diastimata,2000,0.0,tt0364009
+1442,short,Blood on the Backlot,2000,0.0,tt0365003
+1443,movie,Odd Noggins,2000,2.0,tt0365581
+1444,short,Traditional Family Vampires,2000,6.0,tt0368365
+1445,movie,Acne,2005,6.0,tt0368561
+1446,short,Blood Drinkers,2000,1.0,tt0369287
+1447,movie,Murdaa,2000,0.0,tt0369748
+1448,movie,Wang shang guai tan,2000,1.0,tt0369196
+1449,short,Nomina Domini,2000,8.0,tt0371017
+1450,movie,Proboscis,2000,5.0,tt0371100
+1451,short,Green Fingers,2000,3.0,tt0376625
+1452,short,Vampirwind,2000,0.0,tt0378959
+1453,short,Ostrica brijaca,2000,10.0,tt0388314
+1454,movie,Scratch,2000,,tt0388397
+1455,short,Carmilla,2000,7.0,tt0389837
+1456,movie,Oshikiri,2000,8.0,tt0389238
+1457,short,The Nothing Deal,2000,1.0,tt0392555
+1458,short,Ice Bath,2000,9.0,tt0399172
+1459,movie,Sotohiro,2000,4.0,tt0406230
+1460,short,Slice of Life,2000,,tt0408194
+1461,short,Derrière les murs,2000,11.0,tt0411280
+1462,short,Birds of a Feather,2000,,tt0413838
+1463,short,Hungry Freaks,2000,10.0,tt0431819
+1464,short,The Curio Trunk,2000,10.0,tt0437140
+1465,short,Veil,2000,0.0,tt0446499
+1466,movie,Stygian,2000,7.0,tt0445061
+1467,movie,Thrill Kill Jack in Hale Manor,2000,0.0,tt0451229
+1468,short,Biohazard 4D: Executer,2000,,tt0460411
+1469,short,Miss Gentilbelle,2000,1.0,tt0466898
+1470,short,El coleccionista,2000,0.0,tt0467543
+1471,movie,Vecas pagastmajas misterija,2000,,tt0475171
+1472,movie,Kabrastan,2000,6.0,tt0488307
+1473,movie,The Bags,2000,10.0,tt0489447
+1474,short,The Golden Age of Hollywood,2000,4.0,tt0498910
+1475,movie,The Million Dollar Hotel,2000,5.0,tt0120753
+1476,movie,Waking the Dead,2000,3.0,tt0127349
+1477,movie,The Crow: Salvation,2000,6.0,tt0132910
+1478,movie,Scream 3,2000,4.0,tt0134084
+1479,movie,Luckytown,2002,4.0,tt0160495
+1480,movie,Passion of Mind,2000,6.0,tt0160644
+1481,movie,Four Dogs Playing Poker,2000,6.0,tt0160289
+1482,movie,What Lies Beneath,2000,10.0,tt0161081
+1483,movie,Trixie,2000,8.0,tt0162711
+1484,movie,The In Crowd,2000,7.0,tt0163676
+1485,movie,Finding Kelly,2000,1.0,tt0166192
+1486,movie,Le birdwatcher,2000,12.0,tt0168509
+1487,movie,The Playaz Court,2000,,tt0168612
+1488,movie,Michael Angel,2000,2.0,tt0172794
+1489,movie,Cherry Falls,2001,6.0,tt0175526
+1490,movie,Gossip,2000,12.0,tt0176783
+1491,movie,Hundhotellet,2000,3.0,tt0184596
+1492,movie,Frequency,2000,8.0,tt0186151
+1493,movie,Primary Suspect,2000,6.0,tt0187750
+1494,movie,Drowning Mona,2001,1.0,tt0186045
+1495,movie,Mercy,2000,2.0,tt0188055
+1496,movie,Pelon maantiede,2000,1.0,tt0188135
+1497,movie,Cut,2000,3.0,tt0189456
+1498,movie,Urban Legends: Final Cut,2000,9.0,tt0192731
+1499,movie,No Alibi,2000,3.0,tt0192719
+1500,movie,Der Krieger und die Kaiserin,2001,3.0,tt0203632
+1501,movie,Reaper,2000,3.0,tt0203830
+1502,movie,Pilgrim,2000,7.0,tt0203053
+1503,movie,Five Seconds to Spare,2000,10.0,tt0205936
+1504,movie,The Watcher,2001,1.0,tt0204626
+1505,movie,Psycho Beach Party,2001,9.0,tt0206226
+1506,movie,Memento,2001,3.0,tt0209144
+1507,movie,The Weight of Water,2002,7.0,tt0210382
+1508,movie,Winter Lily,2000,3.0,tt0209485
+1509,movie,Bruiser,2000,2.0,tt0212830
+1510,movie,After Alice,2000,2.0,tt0212742
+1511,movie,The 6th Day,2000,12.0,tt0216216
+1512,movie,Xscape,2000,0.0,tt0216256
+1513,movie,"Harry, un ami qui vous veut du bien",2001,6.0,tt0216800
+1514,movie,Christina's House,2000,4.0,tt0216620
+1515,movie,Deeply,2003,11.0,tt0218141
+1516,movie,Tout est calme,2000,1.0,tt0216941
+1517,short,Paranoid,2007,10.0,tt0216969
+1518,movie,Unbreakable,2001,1.0,tt0217869
+1519,movie,The St. Francisville Experiment,2001,10.0,tt0218625
+1520,movie,Dancing at the Blue Iguana,2001,10.0,tt0217355
+1521,movie,Mexico City,2000,11.0,tt0219175
+1522,movie,Auggie Rose,2003,2.0,tt0219519
+1523,movie,The Gift,2001,4.0,tt0219699
+1524,movie,Los crímenes del 'B',2000,0.0,tt0219624
+1525,movie,Chasing Sleep,2001,5.0,tt0221069
+1526,movie,Possible Worlds,2001,7.0,tt0222293
+1527,movie,Chilean Gothic,2000,10.0,tt0224755
+1528,movie,Dangerous Attraction,2000,5.0,tt0228180
+1529,movie,Book of Shadows: Blair Witch 2,2000,11.0,tt0229260
+1530,movie,Les rivières pourpres,2000,9.0,tt0228786
+1531,movie,Sleepwalker,2000,8.0,tt0228871
+1532,movie,Sunrising,2000,3.0,tt0230830
+1533,movie,Jacks or Better,2000,6.0,tt0230350
+1534,movie,Merci pour le chocolat,2000,10.0,tt0232083
+1535,movie,Sleepy Hollow High,2000,0.0,tt0232657
+1536,short,A Suspeita,2000,1.0,tt0234836
+1537,movie,Isola: Tajuu jinkaku shôjo,2000,1.0,tt0233910
+1538,movie,The Nine Lives of Tomas Katz,2001,1.0,tt0235618
+1539,movie,Ringu 0: Bâsudei,2000,1.0,tt0235712
+1540,movie,Tesoro mío,2000,8.0,tt0237817
+1541,movie,Flashback - Mörderische Ferien,2000,4.0,tt0239406
+1542,movie,Leyenda de fuego,2001,10.0,tt0239115
+1543,movie,Kytice,2000,12.0,tt0239102
+1544,movie,The Groom,2000,4.0,tt0240557
+1545,movie,Sous le sable,2001,4.0,tt0240913
+1546,movie,"Dude, Where's My Car?",2001,5.0,tt0242423
+1547,movie,El arte de morir,2000,3.0,tt0242285
+1548,movie,Det okända.,2000,10.0,tt0243465
+1549,movie,No One Sleeps,2000,9.0,tt0244684
+1550,movie,Ristningar,2000,7.0,tt0245391
+1551,movie,Solid Cover,2000,0.0,tt0246241
+1552,movie,Rito terminal,2000,9.0,tt0246199
+1553,movie,Preston Tylk,2001,4.0,tt0249892
+1554,movie,Koroshi,2000,11.0,tt0248948
+1555,movie,Werckmeister harmóniák,2002,4.0,tt0249241
+1556,movie,The Girl,2003,8.0,tt0249538
+1557,short,Beipan,2000,7.0,tt0252268
+1558,movie,Tarkieb,2000,6.0,tt0252038
+1559,movie,Comédie de l'innocence,2001,2.0,tt0254325
+1560,movie,La comunidad,2000,9.0,tt0255067
+1561,short,Tangled,2000,4.0,tt0255632
+1562,movie,Feichang xiari,2000,8.0,tt0257664
+1563,movie,Ayollar saltanaty,2001,1.0,tt0257288
+1564,movie,The Monkey's Mask,2001,5.0,tt0259442
+1565,movie,Jong gwai lei: Huet gwong ji zoi,2000,7.0,tt0259023
+1566,movie,Surveillance,2000,0.0,tt0261336
+1567,short,Safe Sex,2000,11.0,tt0262741
+1568,movie,Interstate 84,2000,9.0,tt0264710
+1569,movie,Movievoyeur.com,2000,0.0,tt0264927
+1570,movie,Monarch,2014,9.0,tt0264916
+1571,movie,Dokfa nai meuman,2016,1.0,tt0269587
+1572,movie,"Komm, süsser Tod",2000,12.0,tt0271029
+1573,movie,Distant Shadow,2000,10.0,tt0273539
+1574,movie,Khatarnak,2000,0.0,tt0273707
+1575,movie,In Flagrante,2000,10.0,tt0273678
+1576,movie,Kannukkul Nilavu,2000,1.0,tt0274604
+1577,movie,Melekler Evi,2000,11.0,tt0275512
+1578,movie,Chai fok yau wak 2: Dei ha fat ting,2000,3.0,tt0278666
+1579,short,Strange Date with Herself,2000,9.0,tt0278743
+1580,movie,Devadoothan,2000,0.0,tt0280599
+1581,movie,Keizoku/eiga,2000,3.0,tt0280829
+1582,movie,The Ghost of Greville Lodge,2000,10.0,tt0282524
+1583,short,Obscuratio,2000,12.0,tt0281005
+1584,movie,Pilots,2000,0.0,tt0282843
+1585,movie,Jericho,2000,10.0,tt0285242
+1586,short,The Interview,2000,10.0,tt0285621
+1587,movie,Laina-aika,2000,12.0,tt0285281
+1588,short,Wood,2000,0.0,tt0286314
+1589,short,Anywhere Out of the World,2000,12.0,tt0287918
+1590,short,The Caller,2000,9.0,tt0289103
+1591,movie,Misterii,2000,0.0,tt0287566
+1592,movie,Ng goi ze wai,2000,5.0,tt0287989
+1593,movie,Haebyeoneuro gada,2000,8.0,tt0291043
+1594,short,Paranoia,2000,10.0,tt0292621
+1595,movie,Kaosu,2000,10.0,tt0295362
+1596,short,7337,2000,10.0,tt0295843
+1597,short,Adazhio,2001,4.0,tt0297703
+1598,short,Tepê,2000,0.0,tt0296890
+1599,short,The Watcher,2000,,tt0296275
+1600,short,Fade,2000,10.0,tt0299865
+1601,movie,Jonni Nitro,2000,0.0,tt0300058
+1602,short,Vingança Macabra,2000,2.0,tt0309041
+1603,short,Intestino Grosso,2000,0.0,tt0314206
+1604,movie,Jinshil game,2000,3.0,tt0314230
+1605,short,A Cobra de Fogo,2000,8.0,tt0313909
+1606,short,Quem?,2000,8.0,tt0314552
+1607,short,44,2000,7.0,tt0326496
+1608,movie,Ching ham Baak Lok Moon,2001,8.0,tt0325174
+1609,movie,La donna del delitto,2000,0.0,tt0329013
+1610,movie,Ju-on 2,2004,4.0,tt0330501
+1611,movie,Snegithiye,2000,0.0,tt0354922
+1612,short,Mr Plimpton,2000,9.0,tt0354751
+1613,short,Lost,2000,0.0,tt0358572
+1614,movie,"Marina, del otro lado del tiempo",2000,0.0,tt0359661
+1615,short,The Puzzle,2000,4.0,tt0360908
+1616,short,Knowing,2000,8.0,tt0366683
+1617,movie,Wang shang guai tan,2000,1.0,tt0369196
+1618,movie,Vanishing Twin,2000,9.0,tt0380202
+1619,movie,Secondo Giovanni,2000,3.0,tt0386013
+1620,short,The Interview,2000,9.0,tt0386537
+1621,movie,Shisha no gakuensai,2000,8.0,tt0405312
+1622,short,Los hombres que ríen,2000,4.0,tt0410083
+1623,short,Tejiendo sueños,2000,,tt0430666
+1624,short,Walpurgisnacht,2000,,tt0460986
+1625,short,Hotel Pandemonium,2000,1.0,tt0473651
+1626,movie,Vecas pagastmajas misterija,2000,,tt0475171
+1627,short,Carcasses,2000,0.0,tt0476167
+1628,movie,Shikaar,2000,,tt0495893
+1629,movie,Istota,2000,0.0,tt0102362
+1630,movie,The Fantasticks,2000,9.0,tt0113026
+1631,movie,Karobaar: The Business of Love,2000,9.0,tt0116748
+1632,movie,Fa yeung nin wah,2001,3.0,tt0118694
+1633,movie,Passionnément,2000,5.0,tt0119866
+1634,movie,Love 101,2000,2.0,tt0119495
+1635,movie,Nothing Sacred,2000,11.0,tt0119806
+1636,movie,Return to Me,2000,6.0,tt0122459
+1637,movie,Waking the Dead,2000,3.0,tt0127349
+1638,movie,Duets,2000,9.0,tt0134630
+1639,movie,Love... at Your Disposal,2000,4.0,tt0138583
+1640,movie,The Road to El Dorado,2000,10.0,tt0138749
+1641,movie,Muggers,2000,5.0,tt0138631
+1642,movie,The Yards,2001,6.0,tt0138946
+1643,movie,It Had to Be You,2000,2.0,tt0139388
+1644,movie,Isn't She Great,2000,1.0,tt0141399
+1645,movie,Meeting Daddy,2000,6.0,tt0142650
+1646,short,Caught,2000,8.0,tt0142155
+1647,movie,Nutty Professor II: The Klumps,2000,10.0,tt0144528
+1648,movie,High Fidelity,2000,8.0,tt0146882
+1649,movie,All the Pretty Horses,2000,12.0,tt0149624
+1650,movie,Josh,2000,6.0,tt0151150
+1651,movie,Up at the Villa,2000,4.0,tt0153464
+1652,movie,The Next Best Thing,2000,6.0,tt0156841
+1653,movie,Life/Drawing,2005,,tt0156741
+1654,movie,Mad About Mambo,2000,7.0,tt0156757
+1655,movie,Trolösa,2001,10.0,tt0157122
+1656,movie,The Flintstones in Viva Rock Vegas,2000,7.0,tt0158622
+1657,movie,Coping,2000,3.0,tt0159371
+1658,movie,Punks,2000,1.0,tt0160710
+1659,movie,Passion of Mind,2000,6.0,tt0160644
+1660,movie,Steal This Movie,2002,6.0,tt0161216
+1661,movie,Killing Cinderella,2000,0.0,tt0160425
+1662,movie,Red Dirt,2000,3.0,tt0160749
+1663,movie,Other Voices,2000,1.0,tt0160616
+1664,movie,Cast Away,2001,1.0,tt0162222
+1665,movie,La parenthèse enchantée,2000,4.0,tt0163141
+1666,movie,Trixie,2000,8.0,tt0162711
+1667,movie,The Beach,2000,3.0,tt0163978
+1668,movie,I Dreamed of Africa,2000,8.0,tt0167203
+1669,movie,Russkiy bunt,2000,4.0,tt0167380
+1670,movie,"Chicks, Man",2000,10.0,tt0168578
+1671,movie,Perfumed Garden: Tales of the Kama Sutra,2000,6.0,tt0169122
+1672,movie,Keeping the Faith,2000,8.0,tt0171433
+1673,movie,Hamlet,2000,6.0,tt0171359
+1674,movie,Sud Side Stori,2000,9.0,tt0170635
+1675,movie,Gun Shy,2000,3.0,tt0171356
+1676,movie,Nurse Betty,2000,11.0,tt0171580
+1677,movie,The Thundering 8th,2000,0.0,tt0171827
+1678,movie,Labor Pains,2000,11.0,tt0172699
+1679,movie,Whipped,2000,9.0,tt0174336
+1680,movie,Autumn in New York,2000,12.0,tt0174480
+1681,movie,Just for the Time Being,2000,2.0,tt0174646
+1682,movie,Im Juli,2000,8.0,tt0177858
+1683,movie,Coronación,2000,4.0,tt0179137
+1684,movie,All the Wrong Places,2000,9.0,tt0177513
+1685,movie,The Rowdy Girls,2013,5.0,tt0177185
+1686,movie,Bossa Nova,2000,3.0,tt0180837
+1687,movie,Love's Labour's Lost,2000,9.0,tt0182295
+1688,movie,A Piece of Eden,2001,8.0,tt0181945
+1689,movie,Esther Kahn,2000,10.0,tt0183056
+1690,movie,My Mother Frank,2000,8.0,tt0183550
+1691,movie,Highway Society,2000,3.0,tt0187880
+1692,movie,Down to You,2000,7.0,tt0186975
+1693,movie,Saint-Cyr,2001,12.0,tt0187474
+1694,movie,The Simian Line,2000,1.0,tt0186549
+1695,movie,Bounce,2001,5.0,tt0186894
+1696,movie,Insatiable Wives,2007,9.0,tt0188688
+1697,movie,Surrender,2003,12.0,tt0190052
+1698,movie,Wo hu cang long,2001,2.0,tt0190332
+1699,movie,Vatel,2000,7.0,tt0190861
+1700,movie,Honest,2000,10.0,tt0192126
+1701,movie,La veuve de Saint-Pierre,2000,12.0,tt0191636
+1702,movie,No Alibi,2000,3.0,tt0192719
+1703,movie,Apartment Hunting,2000,,tt0191787
+1704,movie,Enemies of Laughter,2000,11.0,tt0193135
+1705,movie,The Right Temptation,2001,5.0,tt0196223
+1706,short,Divine Intervention,2000,0.0,tt0194815
+1707,movie,Here on Earth,2000,8.0,tt0195778
+1708,movie,Forever Lulu,2000,7.0,tt0196723
+1709,movie,Loveblind,2000,3.0,tt0197644
+1710,movie,L'ombra del gigante,2000,4.0,tt0197740
+1711,movie,What's Cooking?,2000,12.0,tt0197096
+1712,movie,Where the Heart Is,2000,11.0,tt0198021
+1713,movie,After Sex,2011,1.0,tt0198284
+1714,movie,Passion's Desire,2000,11.0,tt0198893
+1715,movie,Gripsholm,2000,11.0,tt0199000
+1716,movie,About Adam,2001,1.0,tt0199314
+1717,movie,Love & Basketball,2000,4.0,tt0199725
+1718,movie,Mambo Café,2000,4.0,tt0199744
+1719,movie,Coyote Ugly,2000,10.0,tt0200550
+1720,movie,The House of Mirth,2001,5.0,tt0200720
+1721,movie,The Golden Bowl,2001,1.0,tt0200669
+1722,movie,House!,2000,5.0,tt0201670
+1723,movie,Whatever It Takes,2000,3.0,tt0202402
+1724,movie,"L'amour, l'argent, l'amour",2002,11.0,tt0203297
+1725,movie,Rent a Friend,2000,3.0,tt0201888
+1726,movie,Chasing Indigo,2000,7.0,tt0202829
+1727,movie,Der Krieger und die Kaiserin,2001,3.0,tt0203632
+1728,movie,Illicit Lovers,2000,4.0,tt0203580
+1729,movie,Io amo Andrea,2000,1.0,tt0202405
+1730,movie,Two Family House,2000,10.0,tt0202641
+1731,movie,Greenfingers,2001,9.0,tt0203540
+1732,movie,Boys and Girls,2000,6.0,tt0204175
+1733,movie,Den bästa sommaren,2001,10.0,tt0204932
+1734,movie,Tillsammans,2001,4.0,tt0203166
+1735,movie,Astronomy of Errors,2000,0.0,tt0204679
+1736,movie,Sordid Lives,2001,5.0,tt0204640
+1737,movie,Trifling with Fate,2000,6.0,tt0204698
+1738,movie,Bring It On,2001,9.0,tt0204946
+1739,movie,Dr. T & the Women,2001,4.0,tt0205271
+1740,movie,What Women Want,2001,2.0,tt0207201
+1741,movie,Keep the River on Your Right: A Modern Cannibal Tale,2000,4.0,tt0206187
+1742,movie,The Man Who Cried,2000,12.0,tt0206917
+1743,movie,Woman on Top,2000,9.0,tt0206420
+1744,movie,Time Share,2000,6.0,tt0207161
+1745,movie,Chump Change,2004,1.0,tt0208050
+1746,movie,Broke Even,2000,4.0,tt0208017
+1747,movie,Fast Food Fast Women,2001,6.0,tt0206742
+1748,movie,Hidden Passion,2000,12.0,tt0208204
+1749,movie,Happy Accidents,2001,9.0,tt0208196
+1750,movie,No Taboo,2000,0.0,tt0206977
+1751,movie,Maybe Baby,2000,9.0,tt0206926
+1752,movie,Desire,2000,9.0,tt0208883
+1753,movie,Skipped Parts,2001,12.0,tt0209322
+1754,movie,"Paris, mon petit corps est bien las de ce grand monde",2000,6.0,tt0210890
+1755,short,Inside-Out,2000,9.0,tt0210766
+1756,movie,In the Weeds,2000,6.0,tt0210756
+1757,movie,Center Stage,2000,8.0,tt0210616
+1758,movie,Things You Can Tell Just by Looking at Her,2000,10.0,tt0210358
+1759,movie,Bootmen,2000,10.0,tt0210584
+1760,movie,Il cielo cade,2000,5.0,tt0211309
+1761,movie,Terror Tract,2001,6.0,tt0211661
+1762,movie,Gouttes d'eau sur pierres brûlantes,2000,10.0,tt0211387
+1763,movie,Big Eden,2000,4.0,tt0212815
+1764,movie,Seducing Maarya,2000,6.0,tt0213231
+1765,movie,Meet the Parents,2000,12.0,tt0212338
+1766,short,Taktikk,2000,5.0,tt0212546
+1767,movie,Mohabbatein,2000,10.0,tt0213890
+1768,movie,The Luzhin Defence,2000,12.0,tt0211492
+1769,movie,An Intimate Friendship,2000,0.0,tt0212667
+1770,movie,Miss Congeniality,2001,3.0,tt0212346
+1771,movie,Angst,2000,8.0,tt0211919
+1772,movie,100 Girls,2000,9.0,tt0214388
+1773,movie,Malèna,2001,7.0,tt0213847
+1774,movie,Rugrats in Paris: The Movie - Rugrats II,2001,4.0,tt0213203
+1775,movie,L'extraterrestre,2000,2.0,tt0215757
+1776,movie,Faith and the Water Dog,2000,0.0,tt0214683
+1777,movie,Cowboys and Angels,2000,4.0,tt0215679
+1778,movie,...und das ist erst der Anfang,2000,7.0,tt0215458
+1779,movie,Wild About Harry,2001,10.0,tt0216279
+1780,movie,Vampire Hunter D: Bloodlust,2000,10.0,tt0216651
+1781,movie,Amazone,2000,7.0,tt0216890
+1782,movie,La captive,2000,9.0,tt0216605
+1783,movie,Les destinées sentimentales,2001,8.0,tt0216689
+1784,movie,Trois,2000,3.0,tt0217107
+1785,movie,Deeply,2003,11.0,tt0218141
+1786,movie,En vacances,2000,6.0,tt0216735
+1787,movie,Looking for Alibrandi,2000,5.0,tt0217629
+1788,movie,Harrison's Flowers,2001,6.0,tt0216799
+1789,movie,Ropewalk,2000,3.0,tt0218561
+1790,movie,Loser,2000,7.0,tt0217630
+1791,movie,Le goût des autres,2001,3.0,tt0216787
+1792,movie,¿Tú qué harías por amor?,2000,5.0,tt0218741
+1793,movie,The Claim,2001,2.0,tt0218378
+1794,movie,Now Chinatown,2000,2.0,tt0218475
+1795,movie,Auggie Rose,2003,2.0,tt0219519
+1796,movie,Así es la vida...,2001,1.0,tt0218822
+1797,movie,Pukar,2000,2.0,tt0218533
+1798,movie,The Family Man,2000,12.0,tt0218967
+1799,short,Maggie Moore,2000,0.0,tt0219156
+1800,short,Maria & Jose,2000,0.0,tt0219909
+1801,movie,When Brendan Met Trudy,2001,3.0,tt0220157
+1802,movie,Desi's Looking for a New Girl,2000,6.0,tt0219643
+1803,movie,Timecode,2000,4.0,tt0220100
+1804,movie,Denti,2000,10.0,tt0221115
+1805,movie,Borstal Boy,2000,12.0,tt0221838
+1806,movie,Our Burden Is Light,2000,,tt0221463
+1807,short,Little Sister,2000,0.0,tt0221352
+1808,movie,Sex Files: Ancient Desires,2000,10.0,tt0222717
+1809,movie,The Broken Hearts Club: A Romantic Comedy,2000,10.0,tt0222850
+1810,movie,Kalt ist der Abendhauch,2000,9.0,tt0222096
+1811,movie,The Mistress Club,2000,12.0,tt0223744
+1812,movie,Phir Bhi Dil Hai Hindustani,2000,1.0,tt0222270
+1813,movie,Chittagong: Dernière escale,2001,12.0,tt0222989
+1814,movie,Passion's Obsession,2000,5.0,tt0223889
+1815,movie,21,2000,8.0,tt0224451
+1816,movie,Lista de espera,2000,6.0,tt0222150
+1817,movie,Faust: Love of the Damned,2001,2.0,tt0223268
+1818,movie,North Beach,2000,6.0,tt0226225
+1819,movie,Un paraíso bajo las estrellas,2000,4.0,tt0227224
+1820,movie,Ojos que no ven,2000,5.0,tt0226238
+1821,movie,Épouse-moi,2000,1.0,tt0226708
+1822,movie,Le secret,2001,6.0,tt0227458
+1823,movie,Plata quemada,2000,5.0,tt0227277
+1824,movie,Drôle de Félix,2001,2.0,tt0228242
+1825,movie,A Little Bit of Lipstick,2000,2.0,tt0228525
+1826,movie,Dinner Rush,2002,3.0,tt0229340
+1827,movie,Salsa,2000,2.0,tt0229694
+1828,movie,Princes et princesses,2000,1.0,tt0229664
+1829,movie,Dorcol-Menhetn,2000,11.0,tt0229354
+1830,movie,Diástole y sístole: Los movimientos del corazón,2000,12.0,tt0230148
+1831,movie,La confusion des genres,2000,12.0,tt0230098
+1832,movie,Hatsukoi,2000,4.0,tt0229432
+1833,movie,Zakochani,2000,1.0,tt0230992
+1834,movie,L'arche de Noé,2000,3.0,tt0231172
+1835,movie,The Last Man,2002,2.0,tt0231956
+1836,movie,Pramen zivota,2000,2.0,tt0230652
+1837,movie,Levottomat,2000,1.0,tt0231971
+1838,movie,Mela,2000,1.0,tt0232079
+1839,movie,Fovou tous Ellines...,2000,1.0,tt0231615
+1840,movie,"Ternitz, Tennessee",2000,12.0,tt0232785
+1841,movie,Tolle Lage,2001,5.0,tt0232831
+1842,movie,La beauté de Pandore,2000,7.0,tt0233309
+1843,movie,Love & Sex,2001,2.0,tt0234137
+1844,movie,Passeurs de rêves,2000,3.0,tt0234426
+1845,movie,Su Zhou he,2000,9.0,tt0234837
+1846,movie,Kaho Naa... Pyaar Hai,2000,1.0,tt0234000
+1847,movie,Die Stille nach dem Schuss,2000,9.0,tt0234805
+1848,movie,Les savates du bon Dieu,2000,3.0,tt0234663
+1849,movie,Diary of Lust,2000,3.0,tt0233569
+1850,movie,The Tao of Steve,2000,9.0,tt0234853
+1851,movie,Isola: Tajuu jinkaku shôjo,2000,1.0,tt0233910
+1852,movie,Dong jing gong lüe,2000,1.0,tt0233600
+1853,movie,Better Than Sex,2000,11.0,tt0236019
+1854,movie,Elze Is Gilijos,2000,4.0,tt0236188
+1855,movie,Born Romantic,2001,3.0,tt0236034
+1856,movie,Closing the Deal,2010,6.0,tt0235302
+1857,movie,The Gold Cup,2000,1.0,tt0236261
+1858,movie,Laissons Lucie faire!,2000,12.0,tt0235532
+1859,short,Lucky,2000,2.0,tt0236455
+1860,movie,Paragraph 175,2002,2.0,tt0236576
+1861,movie,Pane e tulipani,2001,3.0,tt0237539
+1862,movie,Shadow Magic,2001,11.0,tt0238588
+1863,movie,101 Reykjavík,2000,6.0,tt0237993
+1864,movie,In extremis,2000,8.0,tt0238295
+1865,movie,Attraction,2000,9.0,tt0238627
+1866,movie,Harte Jungs,2000,3.0,tt0239450
+1867,movie,Hijos del viento,2000,6.0,tt0240576
+1868,movie,Gran Paradiso,2000,11.0,tt0239441
+1869,movie,Yi jian zhong qing,2000,4.0,tt0240880
+1870,movie,"Bob, Verushka & the Pursuit of Happiness",2000,1.0,tt0239267
+1871,movie,Kytice,2000,12.0,tt0239102
+1872,movie,Chocolat,2001,3.0,tt0241303
+1873,short,Quantum Project,2000,5.0,tt0239860
+1874,movie,Fast Lane to Malibu,2000,9.0,tt0240500
+1875,movie,Team Spirit,2000,10.0,tt0242024
+1876,movie,Naked Wishes,2000,0.0,tt0242716
+1877,movie,Alai Payuthey,2000,4.0,tt0242256
+1878,movie,Kandukondain Kandukondain,2000,5.0,tt0242572
+1879,movie,Presque rien,2000,6.0,tt0242795
+1880,movie,Le battement d'ailes du papillon,2000,6.0,tt0243135
+1881,movie,Goo nam gwa lui,2000,6.0,tt0244092
+1882,movie,Hadh Kar Di Aapne,2000,4.0,tt0244528
+1883,movie,Mimpi Moon,2000,0.0,tt0244659
+1884,movie,Big Brother Trouble,2000,4.0,tt0243927
+1885,movie,Go-Con! Japanese Love Culture,2000,3.0,tt0243277
+1886,movie,Italiensk for begyndere,2001,11.0,tt0243862
+1887,short,Kampvuur,2000,9.0,tt0244577
+1888,movie,No One Sleeps,2000,9.0,tt0244684
+1889,movie,Chunhyangdyun,2001,5.0,tt0245837
+1890,movie,Drift,2000,7.0,tt0245877
+1891,movie,Cinderella; Single Again,2000,8.0,tt0245055
+1892,movie,Yi yi,2001,8.0,tt0244316
+1893,movie,Maze,2000,10.0,tt0246072
+1894,movie,Selkie,2000,4.0,tt0245428
+1895,movie,Yüeliang de mimi,2000,4.0,tt0245582
+1896,movie,Behind the Seams,2000,0.0,tt0245759
+1897,movie,Chal Mere Bhai,2000,5.0,tt0245825
+1898,movie,Ftina tsigara,2001,1.0,tt0245910
+1899,movie,Yau ching sui yuet: San Gai goo si,2000,3.0,tt0244884
+1900,movie,Achilles' Love,2004,2.0,tt0246411
+1901,movie,Mujhe Chand Chahiye,2000,3.0,tt0247545
+1902,movie,27 Missing Kisses,2001,5.0,tt0246405
+1903,movie,El invierno de las anjanas,2000,5.0,tt0248109
+1904,movie,Xiao bai wu jin ji,2000,11.0,tt0247061
+1905,movie,Before Night Falls,2002,2.0,tt0247196
+1906,movie,Jerks,2000,1.0,tt0248925
+1907,movie,El beso que me diste,2000,,tt0247953
+1908,movie,Fiza,2000,9.0,tt0248012
+1909,movie,Arous-e atash,2000,7.0,tt0249412
+1910,movie,Badri,2000,4.0,tt0247945
+1911,movie,Dulhan Hum Le Jayenge,2000,1.0,tt0247992
+1912,movie,Ichigensan,2000,1.0,tt0248099
+1913,movie,The Price of Milk,2001,3.0,tt0249893
+1914,movie,Real Things,2000,0.0,tt0248351
+1915,movie,Joru Ka Ghulam,2000,6.0,tt0250452
+1916,movie,Vergiss Amerika,2000,11.0,tt0248601
+1917,movie,Learning to Surf,2000,0.0,tt0250493
+1918,movie,Hum To Mohabbat Karega,2000,5.0,tt0249588
+1919,short,La promesse,2000,5.0,tt0250674
+1920,movie,Refugee,2000,6.0,tt0250690
+1921,movie,Alaska.de,2001,1.0,tt0248628
+1922,movie,The Girl,2003,8.0,tt0249538
+1923,movie,Pedestrian,2000,6.0,tt0249868
+1924,short,Beipan,2000,7.0,tt0252268
+1925,movie,Kunwara,2000,7.0,tt0253194
+1926,movie,Siu chan chan,2000,6.0,tt0253955
+1927,movie,Quando una donna non dorme,2000,8.0,tt0253521
+1928,movie,Apariencias,2000,6.0,tt0254110
+1929,movie,Stories About Love,2000,7.0,tt0249989
+1930,movie,Km. 0,2000,6.0,tt0251777
+1931,short,Thirsty,2000,0.0,tt0253805
+1932,movie,Sans plomb,2000,7.0,tt0249935
+1933,movie,Jungle,2000,7.0,tt0251756
+1934,movie,Kya Kehna,2000,5.0,tt0250483
+1935,movie,Har Dil Jo Pyar Karega...,2000,7.0,tt0250415
+1936,movie,Nowheresville,2000,0.0,tt0251309
+1937,movie,Krámpack,2002,1.0,tt0250478
+1938,movie,Tera Jadoo Chal Gayaa,2000,8.0,tt0250774
+1939,movie,Lanse bayue,2000,9.0,tt0252630
+1940,short,Crush,2000,5.0,tt0253011
+1941,movie,La gran vida,2000,10.0,tt0253110
+1942,movie,Interview,2000,4.0,tt0253146
+1943,movie,Aunque tú no lo sepas,2000,9.0,tt0252912
+1944,movie,Godass,2000,3.0,tt0253104
+1945,movie,Eban and Charley,2000,6.0,tt0253063
+1946,movie,Porno Film,2000,10.0,tt0254705
+1947,short,The Summer of My Deflowering,2000,0.0,tt0254305
+1948,movie,The Goddess of 1967,2001,5.0,tt0255195
+1949,movie,Hamara Dil Aapke Paas Hai,2000,8.0,tt0255212
+1950,movie,Khiladi 420,2000,12.0,tt0255305
+1951,movie,Love Disease,2000,10.0,tt0256160
+1952,movie,Cesta z mesta,2000,10.0,tt0256676
+1953,movie,Dhadkan,2000,8.0,tt0255111
+1954,movie,Raja Ko Rani Se Pyar Ho Gaya,2000,12.0,tt0255543
+1955,movie,Sex Files: Sexually Bewitched,2000,8.0,tt0256378
+1956,movie,Dhaai Akshar Prem Ke,2000,9.0,tt0255112
+1957,movie,Deewane,2000,8.0,tt0255097
+1958,movie,Lunoy byl polon sad,2000,7.0,tt0256898
+1959,movie,Besame Mucho,2001,1.0,tt0257437
+1960,movie,Lian zhan Chong Cheng,2000,7.0,tt0258850
+1961,movie,Vingar av glas,2000,10.0,tt0258291
+1962,movie,"Goodbye, Casanova",2000,,tt0259333
+1963,movie,Nie ma zmiluj,2000,9.0,tt0258838
+1964,movie,One Week,2000,8.0,tt0258854
+1965,movie,Last Resort,2003,4.0,tt0258761
+1966,movie,Ha yat dik mo mo cha,2000,8.0,tt0259741
+1967,movie,Ye ben,2000,10.0,tt0259744
+1968,movie,Chu Lai Yip yu Leung San Pak,2000,3.0,tt0260992
+1969,movie,Fei chang ai qing,2000,9.0,tt0260898
+1970,movie,Tikhie omuty,2000,9.0,tt0261354
+1971,movie,Sex Files: Alien Erotica II,2000,10.0,tt0262221
+1972,movie,Almejas y mejillones,2000,8.0,tt0261521
+1973,movie,Las razones de mis amigos,2000,11.0,tt0260315
+1974,movie,Zavist bogov,2000,10.0,tt0261450
+1975,short,The Heart of the World,2000,9.0,tt0260948
+1976,movie,Oi yue shing,2000,9.0,tt0261125
+1977,movie,Meigui xuanwo,2000,9.0,tt0261063
+1978,short,Seraglio,2000,4.0,tt0262758
+1979,movie,Güle Güle,2000,2.0,tt0262457
+1980,movie,Thomas est amoureux,2001,5.0,tt0262826
+1981,movie,Jis Desh Mein Ganga Rehta Hain,2000,10.0,tt0263491
+1982,movie,Bangkok Dangerous,2002,1.0,tt0263101
+1983,short,Miss Maria,2000,0.0,tt0264910
+1984,movie,A kis utazás,2000,11.0,tt0265017
+1985,movie,Parsley Days,2000,9.0,tt0263840
+1986,movie,For the Cause,2002,5.0,tt0113092
+1987,movie,Gang,2000,4.0,tt0116391
+1988,movie,The Incorporated,2000,5.0,tt0116628
+1989,movie,Mission: Impossible II,2000,7.0,tt0120755
+1990,movie,Pushing the Envelope,2001,4.0,tt0119966
+1991,movie,Vulgar,2000,9.0,tt0120467
+1992,movie,Lured Innocence,2000,2.0,tt0122161
+1993,movie,Shikari,2000,10.0,tt0120117
+1994,movie,The Million Dollar Hotel,2000,5.0,tt0120753
+1995,movie,The Highwayman,2000,4.0,tt0120698
+1996,movie,Last Flight of the Raven,2000,0.0,tt0120729
+1997,movie,Waking the Dead,2000,3.0,tt0127349
+1998,short,The Sticks,2000,0.0,tt0129402
+1999,movie,The Crow: Salvation,2000,6.0,tt0132910
+2000,movie,BlackMale,2000,6.0,tt0132885
+2001,movie,Supernova,2000,6.0,tt0134983
+2002,movie,Pitch Black,2000,11.0,tt0134847
+2003,movie,Fallen Arches,2000,1.0,tt0133752
+2004,movie,Dog Story,2000,6.0,tt0139159
+2005,movie,The Yards,2001,6.0,tt0138946
+2006,movie,Thirteen Days,2001,4.0,tt0146309
+2007,movie,The Thief & the Stripper,2000,10.0,tt0153012
+2008,movie,Ricky 6,2001,4.0,tt0156020
+2009,movie,Yup Yup Man,2005,1.0,tt0157202
+2010,movie,Island of the Dead,2000,7.0,tt0157836
+2011,movie,The Art of War,2001,1.0,tt0160009
+2012,movie,The Unscarred,2000,6.0,tt0160256
+2013,movie,Civility,2000,4.0,tt0159396
+2014,movie,Luckytown,2002,4.0,tt0160495
+2015,movie,The Perfect Tenant,2000,7.0,tt0160652
+2016,movie,Blast,2000,4.0,tt0160663
+2017,movie,Passion of Mind,2000,6.0,tt0160644
+2018,movie,Shades of Darkness,2000,10.0,tt0160859
+2019,movie,Four Dogs Playing Poker,2000,6.0,tt0160289
+2020,movie,Takedown,2000,3.0,tt0159784
+2021,movie,Charlie's Angels,2000,12.0,tt0160127
+2022,movie,Respirar (Debaixo D'água),2000,2.0,tt0160759
+2023,movie,Lost Souls,2001,4.0,tt0160484
+2024,movie,Rules of Engagement,2000,11.0,tt0160797
+2025,movie,Housebound,2000,9.0,tt0160434
+2026,movie,Other Voices,2000,1.0,tt0160616
+2027,movie,What Lies Beneath,2000,10.0,tt0161081
+2028,movie,Shaft,2000,11.0,tt0162650
+2029,movie,The Operator,2000,3.0,tt0163125
+2030,movie,Kasbah,2000,9.0,tt0162901
+2031,movie,Under Suspicion,2000,11.0,tt0164212
+2032,movie,Bless the Child,2001,8.0,tt0163983
+2033,movie,The In Crowd,2000,7.0,tt0163676
+2034,movie,The Beach,2000,3.0,tt0163978
+2035,movie,Hollow Man,2000,8.0,tt0164052
+2036,movie,Across the Line,2000,2.0,tt0164318
+2037,short,The Promise,2000,1.0,tt0164829
+2038,movie,Urban Mythology,2000,0.0,tt0164953
+2039,movie,Romeo Must Die,2000,8.0,tt0165929
+2040,movie,Revenge,2000,2.0,tt0165928
+2041,movie,The Giving Tree,2001,11.0,tt0165800
+2042,movie,Red Team,2000,6.0,tt0167367
+2043,movie,Le birdwatcher,2000,12.0,tt0168509
+2044,movie,Holgi,2000,2.0,tt0166649
+2045,movie,Tick Tock,2000,9.0,tt0169324
+2046,movie,A Better Way to Die,2001,9.0,tt0168504
+2047,movie,Dark Summer,2002,2.0,tt0168631
+2048,movie,Almost Blue,2000,11.0,tt0169543
+2049,movie,Hamlet,2000,6.0,tt0171359
+2050,movie,Michael Angel,2000,2.0,tt0172794
+2051,movie,Kiss Kiss Bang Bang,2000,10.0,tt0173568
+2052,movie,Cecil B. Demented,2000,8.0,tt0173716
+2053,movie,Cherry Falls,2001,6.0,tt0175526
+2054,movie,Trânsito Local,2000,3.0,tt0175258
+2055,movie,Gossip,2000,12.0,tt0176783
+2056,movie,Tripfall,2000,6.0,tt0176244
+2057,movie,The Perfect Storm,2000,9.0,tt0177971
+2058,movie,King of the Jungle,2000,10.0,tt0177888
+2059,movie,Stranger Than Fiction,2001,5.0,tt0178043
+2060,movie,Out of Depth,2001,6.0,tt0179400
+2061,movie,Exit,2000,7.0,tt0178655
+2062,movie,Rancid Aluminium,2000,1.0,tt0179443
+2063,movie,La jaula,2000,3.0,tt0180767
+2064,movie,Traffic,2001,3.0,tt0181865
+2065,movie,Intrepid,2000,4.0,tt0183280
+2066,movie,Mission to Mars,2000,4.0,tt0183523
+2067,movie,Gunblast Vodka,2001,8.0,tt0183142
+2068,movie,Gentleman B.,2000,4.0,tt0183113
+2069,movie,Boiler Room,2000,8.0,tt0181984
+2070,movie,Reindeer Games,2000,10.0,tt0184858
+2071,movie,Diaries of Darkness,2000,0.0,tt0185278
+2072,movie,"Farewell, My Love",2000,2.0,tt0184457
+2073,movie,The Guilty,2000,6.0,tt0186183
+2074,movie,Highway Society,2000,3.0,tt0187880
+2075,movie,Frequency,2000,8.0,tt0186151
+2076,movie,Space Cowboys,2000,11.0,tt0186566
+2077,movie,Primary Suspect,2000,6.0,tt0187750
+2078,movie,Anatomie,2000,2.0,tt0187696
+2079,movie,Gone in Sixty Seconds,2000,8.0,tt0187078
+2080,movie,Point Doom,2000,6.0,tt0186454
+2081,movie,Mercy,2000,2.0,tt0188055
+2082,movie,Pelon maantiede,2000,1.0,tt0188135
+2083,movie,Complicity,2000,7.0,tt0188518
+2084,movie,Cut,2000,3.0,tt0189456
+2085,movie,The Last Stop,2000,5.0,tt0191242
+2086,movie,Bad Faith,2000,10.0,tt0190994
+2087,movie,Left Behind,2001,2.0,tt0190524
+2088,movie,The Skulls,2000,10.0,tt0192614
+2089,movie,Vertical Limit,2001,2.0,tt0190865
+2090,movie,Circus,2000,5.0,tt0191037
+2091,movie,Essex Boys,2000,7.0,tt0191996
+2092,movie,No Alibi,2000,3.0,tt0192719
+2093,movie,Bloodline: The Devil's Game,2000,0.0,tt0191834
+2094,movie,Dangerous Curves,2000,3.0,tt0193859
+2095,movie,Lek,2000,4.0,tt0194104
+2096,movie,The Stray,2004,1.0,tt0194410
+2097,movie,The Right Temptation,2001,5.0,tt0196223
+2098,movie,Starforce,2000,7.0,tt0195308
+2099,movie,Final Destination,2000,6.0,tt0195714
+2100,movie,Alone with a Stranger,2000,10.0,tt0195631
+2101,movie,Hjärta av sten,2000,11.0,tt0196614
+2102,movie,Under Pressure,2000,2.0,tt0197072
+2103,movie,Crime + Punishment in Suburbia,2000,8.0,tt0197384
+2104,movie,Lockdown,2003,6.0,tt0196708
+2105,movie,Paranoid,2000,10.0,tt0197750
+2106,movie,Wings of the Crow,2000,12.0,tt0197104
+2107,movie,Dykaren,2000,1.0,tt0198434
+2108,movie,Perfect Fit,2000,,tt0198903
+2109,movie,Passion's Desire,2000,11.0,tt0198893
+2110,movie,Jill Rips,2000,2.0,tt0199650
+2111,movie,Red Planet,2001,2.0,tt0199753
+2112,movie,The Prophet's Game,2001,4.0,tt0199974
+2113,movie,Blowback,2000,2.0,tt0201484
+2114,movie,Spiders,2000,12.0,tt0203940
+2115,movie,Deep Core,2000,10.0,tt0202314
+2116,movie,Tribulation,2000,1.0,tt0202236
+2117,movie,Reaper,2000,3.0,tt0203830
+2118,movie,Pilgrim,2000,7.0,tt0203053
+2119,movie,The Way of the Gun,2000,9.0,tt0202677
+2120,movie,Five Seconds to Spare,2000,10.0,tt0205936
+2121,movie,Sexy Beast,2001,10.0,tt0203119
+2122,movie,Astronomy of Errors,2000,0.0,tt0204679
+2123,movie,The Watcher,2001,1.0,tt0204626
+2124,short,Timing,2000,4.0,tt0205469
+2125,movie,Wildflower,2000,1.0,tt0205526
+2126,movie,Camera Obscura,2000,1.0,tt0204933
+2127,movie,The Smokers,2000,3.0,tt0205418
+2128,movie,Luck of the Draw,2000,4.0,tt0207036
+2129,movie,Press Run,2000,2.0,tt0206223
+2130,movie,Hassel/Förgörarna,2000,1.0,tt0208198
+2131,movie,Tolerância,2000,10.0,tt0207163
+2132,movie,Falling Through,2000,6.0,tt0208942
+2133,movie,Chain of Command,2004,6.0,tt0207377
+2134,movie,Get Carter,2001,9.0,tt0208988
+2135,movie,Hidden Passion,2000,12.0,tt0208204
+2136,movie,After the Rain,2000,0.0,tt0207296
+2137,movie,En face,2000,2.0,tt0208655
+2138,movie,The Chaos Factor,2000,6.0,tt0208037
+2139,movie,The Guardian,2000,4.0,tt0207501
+2140,movie,Desire,2000,9.0,tt0208883
+2141,movie,The Doghouse,2000,,tt0208910
+2142,movie,Memento,2001,3.0,tt0209144
+2143,short,Papa's kleine Meid,2000,4.0,tt0208341
+2144,movie,The Contender,2001,9.0,tt0208874
+2145,movie,Gangster No. 1,2000,6.0,tt0210065
+2146,movie,The Weight of Water,2002,7.0,tt0210382
+2147,movie,The Cell,2000,11.0,tt0209958
+2148,movie,Winter Lily,2000,3.0,tt0209485
+2149,short,Het kruisverhoor,2000,3.0,tt0211471
+2150,movie,Terror Tract,2001,6.0,tt0211661
+2151,movie,Ghaath,2000,12.0,tt0213677
+2152,movie,After Alice,2000,2.0,tt0212742
+2153,movie,Bait,2000,9.0,tt0211938
+2154,movie,Christie Malry's Own Double-Entry,2002,8.0,tt0213561
+2155,movie,Held for Ransom,2000,11.0,tt0214757
+2156,movie,Gong yuan 2000 AD,2000,2.0,tt0214728
+2157,movie,The Last Patrol,2000,4.0,tt0214871
+2158,movie,Love Her Madly,2000,0.0,tt0215941
+2159,movie,O Dia da Caça,2000,6.0,tt0215715
+2160,movie,Artificial Lies,2000,7.0,tt0215526
+2161,movie,L'ultima lezione,2001,6.0,tt0216198
+2162,movie,The 6th Day,2000,12.0,tt0216216
+2163,movie,Xscape,2000,0.0,tt0216256
+2164,movie,Recycled,2000,2.0,tt0216148
+2165,movie,Total western,2000,7.0,tt0216750
+2166,movie,"Harry, un ami qui vous veut du bien",2001,6.0,tt0216800
+2167,movie,Christina's House,2000,4.0,tt0216620
+2168,movie,Devil in the Flesh 2,2000,9.0,tt0217086
+2169,movie,Risk,2000,2.0,tt0217007
+2170,movie,Trois,2000,3.0,tt0217107
+2171,short,Paranoid,2007,10.0,tt0216969
+2172,movie,Une affaire de goût,2000,11.0,tt0217119
+2173,movie,The List,2000,8.0,tt0217621
+2174,movie,L'altra cara de la lluna,2000,2.0,tt0216965
+2175,movie,Unbreakable,2001,1.0,tt0217869
+2176,movie,The St. Francisville Experiment,2001,10.0,tt0218625
+2177,movie,Agent Red,2000,12.0,tt0218080
+2178,movie,Cross,2000,0.0,tt0218912
+2179,movie,The Calling,2000,12.0,tt0218067
+2180,movie,Dracula 2000,2001,6.0,tt0219653
+2181,movie,Järngänget,2000,4.0,tt0216851
+2182,movie,The Asylum,2000,0.0,tt0218824
+2183,movie,Mexico City,2000,11.0,tt0219175
+2184,movie,Pukar,2000,2.0,tt0218533
+2185,movie,Daybreak,2000,12.0,tt0219640
+2186,movie,Sorted,2000,10.0,tt0221563
+2187,movie,Khauff,2000,3.0,tt0220596
+2188,movie,Six-Pack,2000,4.0,tt0221554
+2189,movie,Chasing Sleep,2001,5.0,tt0221069
+2190,movie,Contaminated Man,2000,8.0,tt0221885
+2191,movie,Beautiful Creatures,2001,1.0,tt0221889
+2192,movie,Kaliber Deluxe,2000,3.0,tt0221315
+2193,movie,Seven Days to Live,2001,6.0,tt0221928
+2194,movie,Mach 2,2000,6.0,tt0222020
+2195,movie,"Sleep Easy, Hutch Rimes",2000,11.0,tt0222375
+2196,movie,Brother,2001,5.0,tt0222851
+2197,movie,A Deadly Compromise,2000,0.0,tt0223120
+2198,movie,Passion's Obsession,2000,5.0,tt0223889
+2199,short,Broken,2000,9.0,tt0225223
+2200,movie,24 Hours in London,2000,7.0,tt0222666
+2201,movie,Chilean Gothic,2000,10.0,tt0224755
+2202,movie,Ángel negro,2000,11.0,tt0226701
+2203,movie,Shadow Hours,2001,7.0,tt0226430
+2204,movie,Ojos que no ven,2000,5.0,tt0226238
+2205,movie,Plata quemada,2000,5.0,tt0227277
+2206,movie,Otesánek,2001,1.0,tt0228687
+2207,movie,Dangerous Attraction,2000,5.0,tt0228180
+2208,movie,Book of Shadows: Blair Witch 2,2000,11.0,tt0229260
+2209,movie,3 Chinesen mit dem Kontrabass,2000,3.0,tt0228239
+2210,movie,Les rivières pourpres,2000,9.0,tt0228786
+2211,movie,The Spreading Ground,2000,2.0,tt0228891
+2212,movie,In the Light of the Moon,2001,7.0,tt0230169
+2213,movie,Proof of Life,2001,3.0,tt0228750
+2214,short,Massakern i Åsbringen,2000,0.0,tt0228570
+2215,movie,Sleepwalker,2000,8.0,tt0228871
+2216,movie,Jacks or Better,2000,6.0,tt0230350
+2217,movie,The Last Man,2002,2.0,tt0231956
+2218,movie,Scènes de crimes,2000,3.0,tt0230745
+2219,movie,Merci pour le chocolat,2000,10.0,tt0232083
+2220,short,Angels in a Cage,2000,0.0,tt0231144
+2221,movie,If Tomorrow Comes,2000,0.0,tt0231781
+2222,movie,Future Murder,2000,8.0,tt0233764
+2223,movie,Epicenter,2001,3.0,tt0233656
+2224,movie,Shiner,2001,9.0,tt0232632
+2225,movie,Kaho Naa... Pyaar Hai,2000,1.0,tt0234000
+2226,movie,The Doorway,2000,10.0,tt0235353
+2227,movie,Isola: Tajuu jinkaku shôjo,2000,1.0,tt0233910
+2228,short,Dolman 2000,2000,3.0,tt0236163
+2229,movie,Sanctimony,2001,10.0,tt0234652
+2230,movie,Ringu 0: Bâsudei,2000,1.0,tt0235712
+2231,movie,"Stop It, You're Killing Me",2000,0.0,tt0234811
+2232,movie,Jetzt oder nie - Zeit ist Geld,2000,12.0,tt0236343
+2233,movie,Promenons-nous dans les bois,2000,11.0,tt0236638
+2234,movie,Red Rum,2000,0.0,tt0237643
+2235,movie,The Sculptress,2000,10.0,tt0237706
+2236,movie,Flashback - Mörderische Ferien,2000,4.0,tt0239406
+2237,movie,Sé quién eres,2000,4.0,tt0239955
+2238,movie,Attraction,2000,9.0,tt0238627
+2239,movie,El grito,2000,12.0,tt0239444
+2240,movie,Metronotte,2000,3.0,tt0239632
+2241,short,Sleepyhead,2000,0.0,tt0238609
+2242,movie,Brat 2,2000,5.0,tt0238883
+2243,movie,Breathtaking,2004,12.0,tt0239273
+2244,movie,Gitano,2000,9.0,tt0239432
+2245,short,G.,2000,1.0,tt0240524
+2246,movie,Monday,2001,5.0,tt0239655
+2247,movie,The Blind Date,2000,3.0,tt0241250
+2248,movie,Flooding,2000,4.0,tt0240509
+2249,movie,Going Off Big Time,2000,9.0,tt0241492
+2250,movie,"I Love You, Baby",2000,4.0,tt0240601
+2251,movie,El arte de morir,2000,3.0,tt0242285
+2252,movie,Night Runs Red,2000,0.0,tt0242734
+2253,movie,Les marchands de sable,2000,7.0,tt0242644
+2254,movie,Naomi's Web,2000,0.0,tt0243441
+2255,movie,Second Skin,2001,2.0,tt0244196
+2256,movie,Ides of March,2007,2.0,tt0243327
+2257,movie,Divertimento,2000,10.0,tt0243858
+2258,movie,No One Sleeps,2000,9.0,tt0244684
+2259,movie,Solid Cover,2000,0.0,tt0246241
+2260,short,Infection,2000,5.0,tt0245967
+2261,movie,Amores perros,2001,3.0,tt0245712
+2262,movie,Adela,2001,2.0,tt0245066
+2263,movie,Wilder,2000,11.0,tt0246332
+2264,movie,El viñedo,2000,5.0,tt0247805
+2265,movie,Hyôryû-gai,2000,11.0,tt0246498
+2266,movie,Monos con navaja,2000,5.0,tt0246790
+2267,movie,Mission Kashmir,2000,10.0,tt0248185
+2268,movie,Death of a Dog,2000,0.0,tt0246555
+2269,movie,Xiao bai wu jin ji,2000,11.0,tt0247061
+2270,movie,L'affaire Marcorelle,2000,9.0,tt0247153
+2271,movie,El beso que me diste,2000,,tt0247953
+2272,movie,Lomalla,2000,12.0,tt0248965
+2273,movie,Nueve reinas,2002,11.0,tt0247586
+2274,movie,Preston Tylk,2001,4.0,tt0249892
+2275,movie,Hum To Mohabbat Karega,2000,5.0,tt0249588
+2276,movie,Alaska.de,2001,1.0,tt0248628
+2277,movie,Baise-moi,2000,11.0,tt0249380
+2278,movie,Stageghost,2000,0.0,tt0251412
+2279,short,Hotline,2000,0.0,tt0251735
+2280,movie,Shun liu ni liu,2000,10.0,tt0251433
+2281,movie,Bichhoo,2000,7.0,tt0252277
+2282,movie,Jungle,2000,7.0,tt0251756
+2283,movie,Leo,2000,9.0,tt0251797
+2284,movie,Freunde,2001,2.0,tt0250389
+2285,movie,Deception,2000,0.0,tt0251046
+2286,movie,Tarkieb,2000,6.0,tt0252038
+2287,movie,Primetime Murder,2000,0.0,tt0251353
+2288,movie,Filler ve Çimen,2001,1.0,tt0252437
+2289,movie,Före stormen,2003,8.0,tt0251091
+2290,movie,Comédie de l'innocence,2001,2.0,tt0254325
+2291,movie,La comunidad,2000,9.0,tt0255067
+2292,movie,El viaje de Arián,2001,5.0,tt0255679
+2293,movie,Khiladi 420,2000,12.0,tt0255305
+2294,short,Vigilante,2000,9.0,tt0253897
+2295,movie,Seom,2003,7.0,tt0255589
+2296,short,Tangled,2000,4.0,tt0255632
+2297,movie,Aaghaaz,2000,10.0,tt0254927
+2298,short,Accidents,2000,0.0,tt0256582
+2299,movie,Hot Ice,2000,0.0,tt0257764
+2300,movie,Falling Rocks,2000,6.0,tt0258562
+2301,movie,Besame Mucho,2001,1.0,tt0257437
+2302,movie,Manoharam,2000,0.0,tt0258785
+2303,short,405,2000,6.0,tt0259165
+2304,movie,Cheung wong,2000,5.0,tt0258489
+2305,movie,The Monkey's Mask,2001,5.0,tt0259442
+2306,short,Anniversary Retreat,2000,2.0,tt0259186
+2307,movie,Up Against Amanda,2000,9.0,tt0260481
+2308,movie,The Price of Air,2000,9.0,tt0261199
+2309,movie,Gongdong gyeongbi guyeok JSA,2000,9.0,tt0260991
+2310,movie,Rockets' Red Glare,2002,4.0,tt0261959
+2311,movie,Oi yue shing,2000,9.0,tt0261125
+2312,short,Das rote Strumpfband,2000,0.0,tt0261679
