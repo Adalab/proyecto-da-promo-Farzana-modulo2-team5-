@@ -8,6 +8,7 @@ WHERE id_pelicula IN (SELECT id_pelicula
 					  FROM (SELECT * FROM peliculas) AS p
 					  GROUP BY id_pelicula
 				      HAVING count(*) > 1);
+                      
 -- Eliminamos nombres duplicados 
 -- -------------------------                      
 DELETE FROM peliculas
